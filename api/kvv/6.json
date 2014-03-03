@@ -1,0 +1,1380 @@
+{
+	"parameters": [{
+		"name": "line",
+		"value": "kvv:21006:L:H:j14:4:4::0:1"
+	}, {
+		"name": "requestID",
+		"value": "0"
+	}, {
+		"name": "sessionID",
+		"value": "0"
+	}],
+	"geoObjects": {
+		"params": {
+			"modes": [{
+				"mode": {
+					"name": "Straßenbahn 6 (VBK)",
+					"number": "6 (VBK)",
+					"product": "Straßenbahn",
+					"type": "4",
+					"code": "4",
+					"destination": "Daxlanden Rappenwört",
+					"destID": "7000308",
+					"desc": "Hirtenweg - Konzerthaus - Europaplatz - Entenfang - Daxlanden (- Rappenwört)",
+					"timetablePeriod": "15.12.2013",
+					"realtime": "0",
+					"diva": {
+						"branch": "21",
+						"line": "21006",
+						"supplement": "L",
+						"dir": "H",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21006:L:H:j14",
+						"operator": "VBK GmbH",
+						"opCode": "02"
+					}
+				}
+			}, {
+				"mode": {
+					"name": "Straßenbahn 6 (VBK)",
+					"number": "6 (VBK)",
+					"product": "Straßenbahn",
+					"type": "4",
+					"code": "4",
+					"destination": "Karlsruhe Hirtenweg/Techn.park",
+					"destID": "7000403",
+					"desc": "",
+					"timetablePeriod": "15.12.2013",
+					"realtime": "0",
+					"diva": {
+						"branch": "21",
+						"line": "21006",
+						"supplement": "L",
+						"dir": "R",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21006:L:R:j14",
+						"operator": "VBK GmbH",
+						"opCode": "02"
+					}
+				}
+			}]
+		},
+		"items": [{
+			"item": {
+				"mode": {
+					"name": "",
+					"number": "",
+					"product": "",
+					"type": "4",
+					"code": "4",
+					"destination": "",
+					"destID": "-1",
+					"desc": "",
+					"timetablePeriod": "",
+					"diva": {
+						"branch": "21",
+						"line": "21006",
+						"supplement": "L",
+						"dir": "H",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21006:L:H:j14",
+						"operator": "",
+						"opCode": ""
+					}
+				},
+				"paths": [{
+					"path": "3459025.00000,728742.00000 3458743.00000,728947.00000 3458521.00000,729063.00000 3458439.00000,729094.00000 3458428.00000,729107.00000 3458427.00000,729129.00000 3458479.00000,729296.00000 3458499.00000,729422.00000"
+				}, {
+					"path": "3458289.00000,730230.00000 3458061.00000,730251.00000 3457974.00000,730282.00000 3457939.00000,730280.00000 3457314.00000,730068.00000 3457285.00000,730081.00000 3457261.00000,730143.00000 3457247.00000,730151.00000 3457160.00000,730129.00000 3456968.00000,730140.00000 3456510.00000,730212.00000 3456195.00000,730199.00000 3456178.00000,730207.00000 3456076.00000,730345.00000 3456050.00000,730365.00000 3455986.00000,730381.00000 3455889.00000,730384.00000 3455797.00000,730367.00000 3455775.00000,730357.00000 3455768.00000,730337.00000 3455812.00000,729525.00000 3455801.00000,729517.00000 3455446.00000,729491.00000 3455423.00000,729487.00000 3455376.00000,729458.00000 3455302.00000,729471.00000 3455077.00000,729457.00000"
+				}, {
+					"path": "3454723.00000,729432.00000 3453536.00000,729345.00000 3453452.00000,729341.00000 3453371.00000,729353.00000 3453272.00000,729379.00000 3453130.00000,729500.00000 3452945.00000,729574.00000 3452893.00000,729600.00000 3452809.00000,729659.00000 3452547.00000,729966.00000 3452526.00000,729977.00000 3452510.00000,729974.00000 3452444.00000,729924.00000 3452321.00000,729869.00000 3451757.00000,729742.00000 3451687.00000,729733.00000 3451488.00000,729755.00000 3451449.00000,729771.00000 3451402.00000,729857.00000 3451247.00000,730000.00000 3451159.00000,729994.00000 3450882.00000,730175.00000 3450540.00000,730122.00000 3450424.00000,730113.00000 3449671.00000,730511.00000 3449646.00000,730560.00000 3449527.00000,730616.00000 3448890.00000,730808.00000 3448831.00000,730819.00000 3448811.00000,730819.00000 3448778.00000,730799.00000 3448729.00000,730793.00000 3448538.00000,730707.00000"
+				}],
+				"points": [{
+					"name": "Karlsruhe Hirtenweg/Techn.park",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000403",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3459025.00000,728742.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Hauptfriedhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000402",
+						"area": "1",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "114"
+						}],
+						"coords": "3458441.00000,729172.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Rintheimer Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000311",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3458491.00000,729369.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Tullastraße / VBK",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000007",
+						"area": "2",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "114"
+						}],
+						"coords": "3458463.00000,729885.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Schloss Gottesaue",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000624",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3458184.00000,730241.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Wolfartsweierer Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000623",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3457844.00000,730252.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Ostendstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000622",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3457344.00000,730077.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Philipp-Reis-Straße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000621",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456969.00000,730141.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Volkswohnung / Staatstheater",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000072",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3456449.00000,730212.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Konzerthaus",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000510",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3456131.00000,730266.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Karlstor",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000061",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3455785.00000,730064.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Karl)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000060",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455815.00000,729552.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Mühlburger Tor (Kaiseralle)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000049",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454983.00000,729451.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Yorckstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000041",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454377.00000,729409.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Händelstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000044",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453906.00000,729370.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Philippstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000045",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453554.00000,729346.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Entenfang",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000051",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1138"
+						}],
+						"coords": "3453203.00000,729439.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Eckenerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000201",
+						"area": "2",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3452475.00000,729948.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Stadtwerke",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000315",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3452089.00000,729816.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Mauerweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000302",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3451701.00000,729734.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Ankerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000303",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3451383.00000,729873.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Kirchplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000304",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3451215.00000,730000.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Hammweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000305",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3450866.00000,730175.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Waidweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000306",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3450504.00000,730117.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Altrheinbrücke",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000307",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3449714.00000,730487.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Rappenwört",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000308",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3448539.00000,730707.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}]
+			}
+		}, {
+			"item": {
+				"mode": {
+					"name": "",
+					"number": "",
+					"product": "",
+					"type": "4",
+					"code": "4",
+					"destination": "",
+					"destID": "-1",
+					"desc": "",
+					"timetablePeriod": "",
+					"diva": {
+						"branch": "21",
+						"line": "21006",
+						"supplement": "L",
+						"dir": "R",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21006:L:R:j14",
+						"operator": "",
+						"opCode": ""
+					}
+				},
+				"paths": [{
+					"path": "3448538.00000,730707.00000 3448496.00000,730692.00000 3448480.00000,730706.00000 3448479.00000,730719.00000 3448488.00000,730737.00000 3448542.00000,730768.00000 3448675.00000,730828.00000 3448717.00000,730882.00000 3448765.00000,730894.00000 3448797.00000,730866.00000 3448817.00000,730833.00000 3448834.00000,730826.00000 3449527.00000,730616.00000 3449646.00000,730560.00000 3449672.00000,730519.00000 3450425.00000,730118.00000 3450529.00000,730126.00000 3450788.00000,730168.00000 3450888.00000,730186.00000 3450949.00000,730206.00000 3451240.00000,730007.00000 3451365.00000,729887.00000 3451408.00000,729858.00000 3451456.00000,729774.00000 3451492.00000,729761.00000 3451684.00000,729739.00000 3451747.00000,729746.00000 3452318.00000,729873.00000 3452439.00000,729927.00000 3452509.00000,729979.00000 3452527.00000,729983.00000 3452553.00000,729971.00000 3452815.00000,729661.00000 3452947.00000,729579.00000 3453126.00000,729511.00000 3453277.00000,729385.00000 3453377.00000,729358.00000 3453457.00000,729346.00000 3453621.00000,729354.00000 3454727.00000,729438.00000"
+				}, {
+					"path": "3455077.00000,729464.00000 3455288.00000,729481.00000 3455365.00000,729516.00000 3455430.00000,729497.00000 3455796.00000,729523.00000 3455807.00000,729531.00000 3455764.00000,730337.00000 3455767.00000,730360.00000 3455796.00000,730373.00000 3455888.00000,730391.00000 3455988.00000,730388.00000 3456053.00000,730369.00000 3456080.00000,730348.00000 3456186.00000,730217.00000 3456208.00000,730204.00000 3456510.00000,730219.00000 3456958.00000,730147.00000 3457148.00000,730135.00000 3457241.00000,730158.00000 3457265.00000,730149.00000 3457292.00000,730083.00000 3457303.00000,730077.00000 3457941.00000,730289.00000 3457978.00000,730289.00000 3458075.00000,730257.00000 3458291.00000,730238.00000"
+				}, {
+					"path": "3458504.00000,729421.00000 3458483.00000,729293.00000 3458432.00000,729127.00000 3458433.00000,729110.00000 3458443.00000,729099.00000 3458524.00000,729067.00000 3458746.00000,728953.00000 3459006.00000,728769.00000 3459087.00000,728697.00000"
+				}],
+				"points": [{
+					"name": "Daxlanden Rappenwört",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000308",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3448539.00000,730707.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Altrheinbrücke",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000307",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3449741.00000,730484.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Waidweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000306",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3450529.00000,730127.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Hammweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000305",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3450905.00000,730190.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Kirchplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000304",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3451222.00000,730020.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Ankerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000303",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3451409.00000,729859.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Daxlanden Mauerweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000302",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3451747.00000,729747.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Stadtwerke",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000315",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3452074.00000,729818.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Eckenerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000201",
+						"area": "2",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3452495.00000,729971.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Entenfang",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000051",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1138"
+						}],
+						"coords": "3453264.00000,729396.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Philippstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000045",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453604.00000,729353.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Händelstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000044",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453955.00000,729378.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Yorckstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000041",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454426.00000,729417.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Mühlburger Tor (Kaiseralle)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000049",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454984.00000,729459.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Karl)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000060",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455806.00000,729588.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Karlstor",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000061",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3455778.00000,730077.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Konzerthaus",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000510",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3456174.00000,730232.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Volkswohnung / Staatstheater",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000072",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3456474.00000,730218.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Philipp-Reis-Straße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000621",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3457016.00000,730145.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Ostendstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000622",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3457401.00000,730106.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Wolfartsweierer Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000623",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3457899.00000,730278.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Schloss Gottesaue",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000624",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3458232.00000,730245.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Tullastraße / VBK",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000007",
+						"area": "2",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "114"
+						}],
+						"coords": "3458482.00000,729849.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Rintheimer Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000311",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3458489.00000,729327.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Hauptfriedhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000402",
+						"area": "1",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "114"
+						}],
+						"coords": "3458438.00000,729145.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Hirtenweg/Techn.park",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000403",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3459087.00000,728697.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}]
+			}
+		}]
+	}
+}

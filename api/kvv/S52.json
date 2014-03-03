@@ -1,0 +1,2324 @@
+{
+	"parameters": [{
+		"name": "line",
+		"value": "kvv:22052:L:H:j14:2:1::0:1"
+	}, {
+		"name": "requestID",
+		"value": "0"
+	}, {
+		"name": "sessionID",
+		"value": "0"
+	}],
+	"geoObjects": {
+		"params": {
+			"modes": [{
+				"mode": {
+					"name": "S-Bahn S52 (AVG)",
+					"number": "S52 (AVG)",
+					"product": "S-Bahn",
+					"type": "2",
+					"code": "1",
+					"destination": "Germersheim Bf",
+					"destID": "7032637",
+					"desc": "Karlsruhe - Knielingen - Wörth - Rheinzabern - Rülzheim - Bellheim - Germersheim",
+					"timetablePeriod": "15.12.2013",
+					"realtime": "0",
+					"diva": {
+						"branch": "22",
+						"line": "22052",
+						"supplement": "L",
+						"dir": "H",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:22052:L:H:j14",
+						"operator": "Albtal-Verkehrs-GmbH",
+						"opCode": "01"
+					}
+				}
+			}, {
+				"mode": {
+					"name": "S-Bahn S52 (AVG)",
+					"number": "S52 (AVG)",
+					"product": "S-Bahn",
+					"type": "2",
+					"code": "1",
+					"destination": "Karlsruhe Albtalbahnhof",
+					"destID": "7001201",
+					"desc": "",
+					"timetablePeriod": "15.12.2013",
+					"realtime": "0",
+					"diva": {
+						"branch": "22",
+						"line": "22052",
+						"supplement": "L",
+						"dir": "R",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:22052:L:R:j14",
+						"operator": "Albtal-Verkehrs-GmbH",
+						"opCode": "01"
+					}
+				}
+			}]
+		},
+		"items": [{
+			"item": {
+				"mode": {
+					"name": "",
+					"number": "",
+					"product": "",
+					"type": "1",
+					"code": "2",
+					"destination": "",
+					"destID": "-1",
+					"desc": "",
+					"timetablePeriod": "",
+					"diva": {
+						"branch": "22",
+						"line": "22052",
+						"supplement": "L",
+						"dir": "H",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:22052:L:H:j14",
+						"operator": "",
+						"opCode": ""
+					}
+				},
+				"paths": [{
+					"path": "3455877.00000,731327.00000 3455892.00000,731283.00000 3455913.00000,731262.00000 3456139.00000,731283.00000 3456482.00000,731161.00000 3456500.00000,731115.00000 3456517.00000,731109.00000 3456690.00000,731110.00000 3456893.00000,731087.00000 3456908.00000,731073.00000 3456963.00000,730950.00000 3456948.00000,730533.00000 3456941.00000,730016.00000 3456912.00000,729772.00000 3456924.00000,729623.00000"
+				}, {
+					"path": "3456819.00000,729591.00000 3456516.00000,729570.00000"
+				}, {
+					"path": "3456504.00000,729572.00000 3455446.00000,729491.00000 3455423.00000,729487.00000 3455376.00000,729458.00000 3455302.00000,729471.00000 3455077.00000,729457.00000"
+				}, {
+					"path": "3454723.00000,729432.00000 3453452.00000,729341.00000 3453272.00000,729379.00000 3453186.00000,729454.00000 3453160.00000,729456.00000 3453035.00000,729328.00000 3452911.00000,729165.00000 3452744.00000,729080.00000 3452743.00000,728734.00000 3452735.00000,728656.00000 3452685.00000,728526.00000 3452626.00000,728412.00000 3452438.00000,728138.00000 3452355.00000,727988.00000 3452263.00000,727790.00000 3451615.00000,726764.00000 3451571.00000,726706.00000 3451468.00000,726619.00000 3451320.00000,726557.00000 3451269.00000,726554.00000 3451095.00000,726615.00000 3450845.00000,726670.00000 3450646.00000,726743.00000 3450551.00000,726763.00000 3450463.00000,726763.00000 3450266.00000,726742.00000 3449290.00000,726550.00000 3448867.00000,726459.00000 3448672.00000,726400.00000 3447716.00000,725997.00000 3447487.00000,725866.00000 3447456.00000,725833.00000 3446568.00000,725224.00000 3446499.00000,725191.00000 3446425.00000,725136.00000 3446252.00000,724950.00000 3446189.00000,724826.00000 3446157.00000,724704.00000 3446157.00000,724592.00000 3446173.00000,724499.00000 3446852.00000,721855.00000 3446867.00000,721751.00000 3447023.00000,717718.00000 3447036.00000,717585.00000 3447140.00000,716992.00000 3447181.00000,716710.00000 3447262.00000,716038.00000 3447545.00000,713365.00000 3447586.00000,713242.00000 3447621.00000,713184.00000 3447695.00000,713100.00000 3447781.00000,713029.00000 3448401.00000,712631.00000 3448468.00000,712578.00000 3448577.00000,712446.00000 3448631.00000,712322.00000 3448653.00000,712172.00000 3448650.00000,710310.00000 3448663.00000,709854.00000 3448663.00000,709486.00000 3448669.00000,709433.00000 3448690.00000,709366.00000 3448744.00000,709263.00000 3448803.00000,709201.00000 3448871.00000,709147.00000 3448932.00000,709116.00000 3449000.00000,709093.00000 3449183.00000,709078.00000 3449959.00000,709118.00000 3451415.00000,709220.00000 3452478.00000,709280.00000 3452650.00000,709307.00000 3452897.00000,709398.00000 3452971.00000,709420.00000 3453039.00000,709428.00000 3453147.00000,709417.00000 3453283.00000,709355.00000 3453374.00000,709268.00000 3453418.00000,709185.00000 3453436.00000,709127.00000 3453445.00000,709056.00000 3453458.00000,708616.00000 3453488.00000,708493.00000 3453669.00000,708000.00000 3453731.00000,707870.00000 3453784.00000,707795.00000 3453855.00000,707716.00000 3453946.00000,707646.00000 3453999.00000,707615.00000 3454085.00000,707577.00000 3454700.00000,707361.00000 3454773.00000,707333.00000 3454846.00000,707292.00000 3454887.00000,707259.00000 3454968.00000,707163.00000 3455001.00000,707106.00000 3455049.00000,706979.00000 3455052.00000,706842.00000 3455033.00000,706740.00000 3454839.00000,706117.00000 3454817.00000,705912.00000 3454803.00000,705852.00000 3454750.00000,705765.00000 3454650.00000,705692.00000 3454617.00000,705676.00000 3454556.00000,705662.00000 3454448.00000,705672.00000 3454212.00000,705743.00000 3454141.00000,705746.00000 3454058.00000,705730.00000 3453981.00000,705696.00000 3453946.00000,705667.00000 3453849.00000,705556.00000"
+				}, {
+					"path": "3455877.00000,731327.00000 3455892.00000,731283.00000 3455884.00000,731254.00000 3455718.00000,731231.00000 3455701.00000,731227.00000 3455693.00000,731210.00000 3455743.00000,730556.00000 3455767.00000,730386.00000 3455812.00000,729525.00000 3455801.00000,729517.00000 3455446.00000,729491.00000 3455423.00000,729487.00000 3455376.00000,729458.00000 3455302.00000,729471.00000 3455077.00000,729457.00000"
+				}],
+				"points": [{
+					"name": "Karlsruhe Kolpingplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000063",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455720.00000,730903.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Ebertstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000091",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455812.00000,731242.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Albtalbahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001201",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3455877.00000,731327.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe, Hbf Vorplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000089",
+						"area": "1",
+						"platform": "A",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3456183.00000,731266.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Poststraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000098",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456462.00000,731167.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Tivoli",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000084",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456954.00000,730980.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Werderstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000083",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456950.00000,730592.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Rüppurrer Tor",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000085",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456941.00000,730068.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kronenpl.(Erler-Str)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000080",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456923.00000,729647.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kronenpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000002",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456819.00000,729591.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Marktpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000001",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3456516.00000,729570.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Herrenstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000099",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456176.00000,729547.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Kaiser)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000031",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455908.00000,729525.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Karl)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000060",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455815.00000,729552.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Mathystraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000062",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3455766.00000,730396.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Karlstor",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000061",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3455785.00000,730064.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Mühlburger Tor (Kaiseralle)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000049",
+						"area": "2",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454873.00000,729442.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Yorckstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000041",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454377.00000,729409.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Händelstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000044",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453906.00000,729370.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Philippstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000045",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453554.00000,729346.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Entenfang",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000051",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1138"
+						}],
+						"coords": "3453203.00000,729439.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Lameyplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000058",
+						"area": "0",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3452849.00000,729128.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Starckstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000101",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3452737.00000,728671.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Mühlburg West",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000103",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3452573.00000,728339.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Siemens",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000104",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3452263.00000,727791.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Herweghstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000105",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3451883.00000,727189.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Eggensteiner Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000106",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3451682.00000,726869.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Rheinbergstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000107",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3451543.00000,726678.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Maxau",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001700",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3449347.00000,726561.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Maximiliansau Eisenbahnstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001721",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3448780.00000,726434.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Maximiliansau West",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001723",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3448280.00000,726233.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Wörth Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001731",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "99"
+						}],
+						"coords": "3446944.00000,725484.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Wörth Zügelstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001741",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3446174.00000,724500.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Jockgrim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7035004",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3446925.00000,720331.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rheinzabern Alte Römerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001743",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3446995.00000,718415.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rheinzabern Rappengasse",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001744",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3447024.00000,717719.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rheinzabern Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7035003",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "35"
+						}],
+						"coords": "3447076.00000,717355.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rülzheim Freizeitzentrum",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001745",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3447510.00000,713676.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rülzheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7032451",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "35"
+						}],
+						"coords": "3448133.00000,712805.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Bellheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7032660",
+						"area": "4",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "35"
+						}],
+						"coords": "3448662.00000,709656.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Bellheim Am Mühlbuckel",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001746",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3448918.00000,709124.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Germersheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7032637",
+						"area": "1",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1123"
+						}],
+						"coords": "3453849.00000,705557.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Germersheim Mitte / Rhein",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001748",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3454848.00000,706143.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Germersheim Süd / Nolte",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001747",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3454512.00000,707426.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Sondernheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7035002",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3453444.00000,709009.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}]
+			}
+		}, {
+			"item": {
+				"mode": {
+					"name": "",
+					"number": "",
+					"product": "",
+					"type": "1",
+					"code": "2",
+					"destination": "",
+					"destID": "-1",
+					"desc": "",
+					"timetablePeriod": "",
+					"diva": {
+						"branch": "22",
+						"line": "22052",
+						"supplement": "L",
+						"dir": "R",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:22052:L:R:j14",
+						"operator": "",
+						"opCode": ""
+					}
+				},
+				"paths": [{
+					"path": "3453849.00000,705556.00000 3453946.00000,705667.00000 3453981.00000,705696.00000 3454058.00000,705730.00000 3454141.00000,705746.00000 3454212.00000,705743.00000 3454448.00000,705672.00000 3454556.00000,705662.00000 3454617.00000,705676.00000 3454650.00000,705692.00000 3454750.00000,705765.00000 3454803.00000,705852.00000 3454817.00000,705912.00000 3454839.00000,706117.00000 3455033.00000,706740.00000 3455052.00000,706842.00000 3455049.00000,706979.00000 3455001.00000,707106.00000 3454968.00000,707163.00000 3454887.00000,707259.00000 3454846.00000,707292.00000 3454773.00000,707333.00000 3454700.00000,707361.00000 3454085.00000,707577.00000 3453999.00000,707615.00000 3453946.00000,707646.00000 3453855.00000,707716.00000 3453784.00000,707795.00000 3453731.00000,707870.00000 3453669.00000,708000.00000 3453488.00000,708493.00000 3453458.00000,708616.00000 3453445.00000,709056.00000 3453436.00000,709127.00000 3453418.00000,709185.00000 3453374.00000,709268.00000 3453283.00000,709355.00000 3453147.00000,709417.00000 3453039.00000,709428.00000 3452971.00000,709420.00000 3452897.00000,709398.00000 3452650.00000,709307.00000 3452478.00000,709280.00000 3451415.00000,709220.00000 3449959.00000,709118.00000 3449183.00000,709078.00000 3448977.00000,709098.00000 3448871.00000,709147.00000 3448803.00000,709201.00000 3448744.00000,709263.00000 3448690.00000,709366.00000 3448669.00000,709433.00000 3448663.00000,709486.00000 3448663.00000,709854.00000 3448650.00000,710310.00000 3448653.00000,712172.00000 3448631.00000,712322.00000 3448577.00000,712446.00000 3448468.00000,712578.00000 3448401.00000,712631.00000 3447781.00000,713029.00000 3447695.00000,713100.00000 3447621.00000,713184.00000 3447586.00000,713242.00000 3447545.00000,713365.00000 3447262.00000,716038.00000 3447181.00000,716710.00000 3447140.00000,716992.00000 3447036.00000,717585.00000 3447021.00000,717745.00000 3446867.00000,721751.00000 3446852.00000,721855.00000 3446167.00000,724527.00000 3446157.00000,724592.00000 3446157.00000,724704.00000 3446189.00000,724826.00000 3446252.00000,724950.00000 3446425.00000,725136.00000 3446499.00000,725191.00000 3446568.00000,725224.00000 3447269.00000,725706.00000 3447387.00000,725789.00000 3447480.00000,725877.00000 3447709.00000,726003.00000 3448661.00000,726404.00000 3448826.00000,726457.00000 3449253.00000,726553.00000 3450298.00000,726759.00000 3450390.00000,726795.00000 3450493.00000,726818.00000 3450570.00000,726795.00000 3450852.00000,726676.00000 3451095.00000,726623.00000 3451281.00000,726560.00000 3451346.00000,726574.00000 3451446.00000,726616.00000 3451547.00000,726692.00000 3451606.00000,726760.00000 3452218.00000,727726.00000 3452436.00000,728149.00000 3452622.00000,728416.00000 3452681.00000,728529.00000 3452728.00000,728655.00000 3452738.00000,728734.00000 3452733.00000,729074.00000 3452739.00000,729091.00000 3452753.00000,729104.00000 3452914.00000,729179.00000 3453026.00000,729328.00000 3453153.00000,729460.00000 3453189.00000,729461.00000 3453262.00000,729394.00000 3453287.00000,729381.00000 3453457.00000,729346.00000 3454727.00000,729438.00000"
+				}, {
+					"path": "3455077.00000,729464.00000 3455288.00000,729481.00000 3455365.00000,729516.00000 3455430.00000,729497.00000 3455796.00000,729523.00000 3455807.00000,729531.00000 3455762.00000,730385.00000 3455738.00000,730556.00000 3455687.00000,731216.00000 3455709.00000,731236.00000 3455877.00000,731259.00000 3455885.00000,731283.00000 3455863.00000,731358.00000"
+				}, {
+					"path": "3455077.00000,729464.00000 3455288.00000,729481.00000 3455365.00000,729516.00000 3455430.00000,729497.00000 3456576.00000,729586.00000"
+				}, {
+					"path": "3456869.00000,729611.00000 3456912.00000,729676.00000"
+				}, {
+					"path": "3456926.00000,729954.00000 3456935.00000,730008.00000 3456941.00000,730541.00000 3456956.00000,730958.00000 3456904.00000,731068.00000 3456892.00000,731079.00000 3456688.00000,731104.00000 3456516.00000,731101.00000 3456495.00000,731109.00000 3456482.00000,731152.00000 3456473.00000,731157.00000 3456341.00000,731204.00000 3456216.00000,731222.00000 3456093.00000,731267.00000 3456062.00000,731270.00000 3455912.00000,731255.00000 3455895.00000,731264.00000 3455884.00000,731290.00000 3455883.00000,731361.00000"
+				}],
+				"points": [{
+					"name": "Germersheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7032637",
+						"area": "1",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1123"
+						}],
+						"coords": "3453849.00000,705557.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Germersheim Mitte / Rhein",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001748",
+						"area": "3",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3454865.00000,706206.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Germersheim Süd / Nolte",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001747",
+						"area": "2",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3454487.00000,707435.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Sondernheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7035002",
+						"area": "4",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3453447.00000,708951.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Bellheim Am Mühlbuckel",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001746",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3448978.00000,709100.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Bellheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7032660",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "35"
+						}],
+						"coords": "3448663.00000,709638.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rülzheim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7032451",
+						"area": "4",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "35"
+						}],
+						"coords": "3448165.00000,712783.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rülzheim Freizeitzentrum",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001745",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3447502.00000,713753.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rheinzabern Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7035003",
+						"area": "4",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "35"
+						}],
+						"coords": "3447083.00000,717311.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rheinzabern Rappengasse",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001744",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3447020.00000,717785.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Rheinzabern Alte Römerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001743",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3446993.00000,718482.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Jockgrim Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7035004",
+						"area": "4",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3446922.00000,720385.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Wörth Zügelstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001741",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3446162.00000,724559.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Wörth Bahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001731",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "99"
+						}],
+						"coords": "3446944.00000,725484.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Maximiliansau West",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001723",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "3"
+						}],
+						"coords": "3448324.00000,726264.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Maximiliansau Eisenbahnstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001721",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3448819.00000,726456.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Maxau",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001700",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3449357.00000,726574.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Rheinbergstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000107",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3451557.00000,726705.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Eggensteiner Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000106",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3451697.00000,726903.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Herweghstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000105",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3451903.00000,727232.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Knielingen Siemens",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000104",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3452268.00000,727816.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Mühlburg West",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000103",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3452578.00000,728357.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Starckstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000101",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "2"
+						}],
+						"coords": "3452737.00000,728727.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Lameyplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000058",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3452875.00000,729161.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Entenfang",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000051",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1138"
+						}],
+						"coords": "3453264.00000,729396.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Philippstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000045",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453604.00000,729353.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Händelstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000044",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3453955.00000,729378.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Yorckstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000041",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454426.00000,729417.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Mühlburger Tor (Kaiseralle)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000049",
+						"area": "2",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454894.00000,729453.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Mathystraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000062",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3455755.00000,730441.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Karlstor",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000061",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3455778.00000,730077.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Karl)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000060",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455806.00000,729588.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Kaiser)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000031",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455949.00000,729535.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Herrenstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000099",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456219.00000,729557.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Marktpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000001",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3456551.00000,729586.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kronenpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000002",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456869.00000,729611.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kronenpl.(Erler-Str)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000080",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456912.00000,729676.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Rüppurrer Tor",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000085",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456935.00000,730102.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Werderstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000083",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456944.00000,730634.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Tivoli",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000084",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3456935.00000,731009.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Poststraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000098",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456419.00000,731174.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe, Hbf Vorplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000089",
+						"area": "1",
+						"platform": "D",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3456167.00000,731241.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Albtalbahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001201",
+						"area": "1",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3455884.00000,731362.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Albtalbahnhof",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7001201",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "34"
+						}],
+						"coords": "3455863.00000,731358.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Ebertstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000091",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455853.00000,731254.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kolpingplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000063",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455708.00000,730932.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}]
+			}
+		}]
+	}
+}

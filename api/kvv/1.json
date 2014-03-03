@@ -1,0 +1,1362 @@
+{
+	"parameters": [{
+		"name": "line",
+		"value": "kvv:21001:L:H:j14:4:4::0:1"
+	}, {
+		"name": "requestID",
+		"value": "0"
+	}, {
+		"name": "sessionID",
+		"value": "0"
+	}],
+	"geoObjects": {
+		"params": {
+			"modes": [{
+				"mode": {
+					"name": "Straßenbahn 1 (VBK)",
+					"number": "1 (VBK)",
+					"product": "Straßenbahn",
+					"type": "4",
+					"code": "4",
+					"destination": "Oberreut Badeniaplatz",
+					"destID": "7000611",
+					"desc": "Durlach Turmberg - Marktplatz - Europaplatz - Oberreut",
+					"timetablePeriod": "15.12.2013",
+					"realtime": "0",
+					"diva": {
+						"branch": "21",
+						"line": "21001",
+						"supplement": "L",
+						"dir": "H",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21001:L:H:j14",
+						"operator": "VBK GmbH",
+						"opCode": "02"
+					}
+				}
+			}, {
+				"mode": {
+					"name": "Straßenbahn 1 (VBK)",
+					"number": "1 (VBK)",
+					"product": "Straßenbahn",
+					"type": "4",
+					"code": "4",
+					"destination": "Durlach Turmberg",
+					"destID": "7000018",
+					"desc": "",
+					"timetablePeriod": "15.12.2013",
+					"realtime": "0",
+					"diva": {
+						"branch": "21",
+						"line": "21001",
+						"supplement": "L",
+						"dir": "R",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21001:L:R:j14",
+						"operator": "VBK GmbH",
+						"opCode": "02"
+					}
+				}
+			}]
+		},
+		"items": [{
+			"item": {
+				"mode": {
+					"name": "",
+					"number": "",
+					"product": "",
+					"type": "4",
+					"code": "4",
+					"destination": "",
+					"destID": "-1",
+					"desc": "",
+					"timetablePeriod": "",
+					"diva": {
+						"branch": "21",
+						"line": "21001",
+						"supplement": "L",
+						"dir": "H",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21001:L:H:j14",
+						"operator": "",
+						"opCode": ""
+					}
+				},
+				"paths": [{
+					"path": "3461915.00000,730698.00000 3461936.00000,730714.00000 3461936.00000,730739.00000 3461840.00000,730862.00000 3461818.00000,730858.00000 3461757.00000,730809.00000 3461699.00000,730741.00000 3461627.00000,730766.00000 3461528.00000,730772.00000 3461248.00000,730755.00000 3461121.00000,730736.00000 3460975.00000,730691.00000 3460888.00000,730645.00000 3460487.00000,730516.00000 3459495.00000,730253.00000 3457589.00000,729689.00000 3457568.00000,729677.00000 3457548.00000,729612.00000 3457527.00000,729598.00000 3457507.00000,729600.00000 3457427.00000,729638.00000 3457402.00000,729639.00000"
+				}, {
+					"path": "3457227.00000,729626.00000 3456818.00000,729596.00000"
+				}, {
+					"path": "3456819.00000,729591.00000 3456516.00000,729570.00000"
+				}, {
+					"path": "3456504.00000,729572.00000 3455446.00000,729491.00000 3455423.00000,729487.00000 3455376.00000,729458.00000 3455302.00000,729471.00000 3455077.00000,729457.00000"
+				}, {
+					"path": "3454723.00000,729432.00000 3454706.00000,729439.00000 3454699.00000,729454.00000 3454667.00000,729748.00000 3454550.00000,729987.00000 3454550.00000,730077.00000 3454513.00000,730538.00000 3454461.00000,730634.00000 3454439.00000,730699.00000 3454433.00000,730825.00000 3454411.00000,730904.00000 3454288.00000,731054.00000 3454050.00000,731240.00000 3453840.00000,731480.00000 3453769.00000,731545.00000 3453691.00000,731655.00000 3453646.00000,731701.00000 3453484.00000,731831.00000 3453439.00000,731877.00000 3453412.00000,731920.00000 3453401.00000,731969.00000 3453395.00000,732326.00000 3453411.00000,732349.00000 3453807.00000,732605.00000 3453838.00000,732639.00000"
+				}],
+				"points": [{
+					"name": "Durlach Turmberg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000018",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1072"
+						}],
+						"coords": "3461916.00000,730698.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach Karl-Weysser-Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000019",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3461785.00000,730830.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach Schlossplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000017",
+						"area": "2",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3461550.00000,730771.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach Friedrichschule",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000016",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3461227.00000,730753.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach, Auer Straße/Dr. Willmar Schwabe",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000011",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3460791.00000,730613.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Untermühlstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000010",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3460135.00000,730423.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Weinweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000009",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3459199.00000,730166.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Tullastraße / VBK",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000007",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "114"
+						}],
+						"coords": "3458506.00000,729960.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Gottesauer Platz/BGV",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000006",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3458016.00000,729817.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Durlacher Tor / KIT",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000003",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3457228.00000,729625.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kronenpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000002",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456819.00000,729591.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Marktpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000001",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3456516.00000,729570.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Herrenstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000099",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456176.00000,729547.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Kaiser)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000031",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455908.00000,729525.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Mühlburger Tor (Kaiseralle)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000049",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454983.00000,729451.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Schillerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000040",
+						"area": "0",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454695.00000,729500.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Sophienstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000602",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454638.00000,729806.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Weinbrennerplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000603",
+						"area": "2",
+						"platform": "3",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3454549.00000,730063.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Landesbausparkasse",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000604",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3454522.00000,730462.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europahalle/-bad",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000605",
+						"area": "0",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3454416.00000,730886.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Bannwaldallee",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000606",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3454195.00000,731127.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Hardecksiedlung",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000607",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453869.00000,731447.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Albert-Braun-Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000608",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453461.00000,731853.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Zentrum",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000609",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453394.00000,732266.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Wilhelm-Leuschner-Str",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000610",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453579.00000,732458.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Badeniaplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000611",
+						"area": "1",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453838.00000,732640.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}]
+			}
+		}, {
+			"item": {
+				"mode": {
+					"name": "",
+					"number": "",
+					"product": "",
+					"type": "4",
+					"code": "4",
+					"destination": "",
+					"destID": "-1",
+					"desc": "",
+					"timetablePeriod": "",
+					"diva": {
+						"branch": "21",
+						"line": "21001",
+						"supplement": "L",
+						"dir": "R",
+						"project": "j14",
+						"network": "kvv",
+						"stateless": "kvv:21001:L:R:j14",
+						"operator": "",
+						"opCode": ""
+					}
+				},
+				"paths": [{
+					"path": "3453829.00000,732601.00000 3453811.00000,732601.00000 3453414.00000,732343.00000 3453401.00000,732324.00000 3453406.00000,731971.00000 3453418.00000,731921.00000 3453444.00000,731880.00000 3453487.00000,731836.00000 3453649.00000,731706.00000 3453697.00000,731656.00000 3453774.00000,731548.00000 3453906.00000,731416.00000 3454054.00000,731244.00000 3454296.00000,731055.00000 3454353.00000,730994.00000 3454432.00000,730884.00000 3454445.00000,730833.00000 3454446.00000,730694.00000 3454468.00000,730635.00000 3454519.00000,730541.00000 3454557.00000,730085.00000 3454556.00000,729996.00000 3454674.00000,729755.00000 3454679.00000,729715.00000 3454673.00000,729692.00000 3454690.00000,729535.00000 3454707.00000,729456.00000 3454712.00000,729443.00000 3454727.00000,729438.00000"
+				}, {
+					"path": "3455077.00000,729464.00000 3455288.00000,729481.00000 3455365.00000,729516.00000 3455430.00000,729497.00000 3456576.00000,729586.00000"
+				}, {
+					"path": "3456869.00000,729605.00000 3457241.00000,729633.00000"
+				}, {
+					"path": "3457402.00000,729645.00000 3457426.00000,729644.00000 3457510.00000,729606.00000 3457530.00000,729605.00000 3457543.00000,729617.00000 3457560.00000,729679.00000 3457587.00000,729695.00000 3459247.00000,730189.00000 3460412.00000,730500.00000 3460895.00000,730655.00000 3460977.00000,730700.00000 3461123.00000,730744.00000 3461264.00000,730762.00000 3461402.00000,730763.00000 3461569.00000,730778.00000 3461617.00000,730774.00000 3461681.00000,730752.00000 3461820.00000,730642.00000 3461915.00000,730698.00000"
+				}],
+				"points": [{
+					"name": "Oberreut Badeniaplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000611",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453830.00000,732601.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Wilhelm-Leuschner-Str",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000610",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453569.00000,732443.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Zentrum",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000609",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453402.00000,732260.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Oberreut Albert-Braun-Str.",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000608",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453522.00000,731809.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Hardecksiedlung",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000607",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3453901.00000,731422.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Bannwaldallee",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000606",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3454202.00000,731132.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europahalle/-bad",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000605",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3454443.00000,730844.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Landesbausparkasse",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000604",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3454533.00000,730406.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Weinbrennerplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000603",
+						"area": "2",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3454554.00000,730024.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Sophienstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000602",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454669.00000,729766.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Schillerstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000040",
+						"area": "0",
+						"platform": "4",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454705.00000,729470.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "KA Mühlburger Tor (Kaiseralle)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000049",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "18"
+						}],
+						"coords": "3454984.00000,729459.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Europaplatz (Kaiser)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000031",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3455949.00000,729535.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Herrenstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000099",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456219.00000,729557.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Marktpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000001",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1074"
+						}],
+						"coords": "3456551.00000,729586.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Kronenpl.(Kaiserstr)",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000002",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3456869.00000,729611.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Durlacher Tor / KIT",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000003",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3457241.00000,729637.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Gottesauer Platz/BGV",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000006",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3458018.00000,729828.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Tullastraße / VBK",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000007",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "114"
+						}],
+						"coords": "3458537.00000,729977.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Weinweg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000009",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "50"
+						}],
+						"coords": "3459248.00000,730189.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Karlsruhe Untermühlstraße",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000010",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "16"
+						}],
+						"coords": "3460181.00000,730442.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach, Auer Straße/Dr. Willmar Schwabe",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000011",
+						"area": "1",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3460826.00000,730634.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach Friedrichschule",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000016",
+						"area": "0",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3461242.00000,730760.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach Schlossplatz",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000017",
+						"area": "2",
+						"platform": "2",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "48"
+						}],
+						"coords": "3461590.00000,730778.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}, {
+					"name": "Durlach Turmberg",
+					"nameWO": "",
+					"place": "",
+					"nameWithPlace": "",
+					"omc": "-1",
+					"placeID": "-1",
+					"platformName": "",
+					"desc": "",
+					"ref": {
+						"id": "7000018",
+						"area": "1",
+						"platform": "1",
+						"NaPTANID": "",
+						"attrs": [{
+							"name": "STOP_MEANS",
+							"value": "1072"
+						}],
+						"coords": "3461916.00000,730698.00000",
+						"arrDelay": "0",
+						"arrValid": "0",
+						"depDelay": "0",
+						"depValid": "0"
+					}
+				}]
+			}
+		}]
+	}
+}
