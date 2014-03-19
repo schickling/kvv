@@ -3,127 +3,127 @@
   "stops": [{
     "id": 0,
     "name": "Germersheim  Bf",
-    "position": 0.2585399999999999,
+    "position": 0.2590235931610823,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 1,
     "name": "Germersheim Mitte/Rhein",
-    "position": 0.34026666666666655,
+    "position": 0.34114191469721794,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 2,
     "name": "Germersheim Süd/Nolte",
-    "position": 0.38873999999999986,
+    "position": 0.38909041922830495,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 3,
     "name": "Sondernheim",
-    "position": 0.41418666666666654,
+    "position": 0.4143635203054594,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 4,
     "name": "Bellheim Bf",
-    "position": 0.4404399999999999,
+    "position": 0.43953614332502,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 5,
     "name": "Rülzheim Bf",
-    "position": 0.5056999999999998,
+    "position": 0.506622632350437,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 6,
     "name": "Rülzheim Freizeitzentrum",
-    "position": 0.5240399999999998,
+    "position": 0.5234266133288624,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 7,
     "name": "Rheinzabern Bf",
-    "position": 0.5427066666666666,
+    "position": 0.5416946272962375,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 8,
     "name": "Jockgrim Bf",
-    "position": 0.5616999999999999,
+    "position": 0.560593706151842,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 9,
     "name": "Wörth(Rhein)",
-    "position": 0.5810199999999999,
+    "position": 0.5820752678406962,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 10,
     "name": "Siemens Knielingen",
-    "position": 0.6034999999999998,
+    "position": 0.6021482025267387,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 11,
     "name": "Lameyplatz",
-    "position": 0.6235199999999999,
+    "position": 0.6221037516296201,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 12,
     "name": "Entenfang",
-    "position": 0.6976866666666666,
+    "position": 0.6981404977891238,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 13,
     "name": "Philippstraße",
-    "position": 0.7191999999999998,
+    "position": 0.7206466008286171,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 14,
     "name": "Händelstraße",
-    "position": 0.7473399999999999,
+    "position": 0.7475362608111478,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 15,
     "name": "Yorckstraße",
-    "position": 0.7663999999999999,
+    "position": 0.7673406176811784,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 16,
     "name": "Mühlburger Tor",
-    "position": 0.7857,
+    "position": 0.7870679700409025,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 17,
     "name": "Europapl./PostGalerie (Kaiserstr)",
-    "position": 0.8052399999999998,
+    "position": 0.80654928168522,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 18,
     "name": "Herrenstraße",
-    "position": 0.82502,
+    "position": 0.82596673498729,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 19,
     "name": "Marktplatz (Kaiserstraße)",
-    "position": 0.8450399999999999,
+    "position": 0.8454856101877439,
     "priotity": 1,
     "priority": 1
   }, {
     "id": 20,
     "name": "Kronenplatz (Kaiserstr.)",
-    "position": 0.8653,
+    "position": 0.8648758280971914,
     "priotity": 1,
     "priority": 1
   }]

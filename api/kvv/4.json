@@ -8,134 +8,134 @@
   }, {
     "id": 1,
     "name": "Waldstadt Osteroder Straße",
-    "position": 0.05589999999999999,
-    "priority": 1,
+    "position": 0.056009856163436816,
+    "priority": 0,
     "size": 0
   }, {
     "id": 2,
     "name": "Waldstadt Elbinger Str. (Ost)",
-    "position": 0.10502000000000013,
+    "position": 0.10480547986080638,
     "priority": 1
   }, {
     "id": 3,
     "name": "Waldstadt Jägerhaus",
-    "position": 0.15336666666666648,
+    "position": 0.15398543044866528,
     "priority": 1
   }, {
     "id": 4,
     "name": "Waldstadt Zentrum",
-    "position": 0.21589999999999954,
+    "position": 0.21603646926465442,
     "priority": 1,
     "size": 0
   }, {
     "id": 5,
     "name": "Waldstadt Glogauer Straße",
-    "position": 0.24751999999999955,
+    "position": 0.24762690483592445,
     "priority": 1,
     "size": 0
   }, {
     "id": 6,
     "name": "Waldstadt Im Eichbäumle",
-    "position": 0.2950199999999995,
+    "position": 0.2958745926077244,
     "priority": 1,
     "size": 0
   }, {
     "id": 7,
     "name": "Hagsfeld Fächerbad",
-    "position": 0.32760666666666616,
+    "position": 0.32662537425290794,
     "priority": 1
   }, {
     "id": 8,
     "name": "Rintheim Sinsheimer Straße",
-    "position": 0.39101999999999937,
+    "position": 0.3902420105239519,
     "priority": 0
   }, {
     "id": 9,
     "name": "Karlsruhe Hirtenweg/Techn.park",
-    "position": 0.44773999999999925,
+    "position": 0.4465543890620777,
     "priority": 1,
     "size": 0
   }, {
     "id": 10,
     "name": "Karlsruhe Hauptfriedhof",
-    "position": 0.5005199999999992,
+    "position": 0.50036169715257,
     "priority": 0
   }, {
     "id": 11,
     "name": "Karlsruhe Karl-Wilhelm-Platz",
-    "position": 0.5667,
+    "position": 0.5674429460081052,
     "priority": 1,
     "size": 0
   }, {
     "id": 12,
     "name": "Karlsruhe Durlacher Tor / KIT",
-    "position": 0.6426,
+    "position": 0.6414004048886688,
     "priority": 0,
     "size": 0
   }, {
     "id": 13,
     "name": "Karlsruhe Kolpingplatz",
-    "position": 0.7068666666666653,
+    "position": 0.7080003987790401,
     "priority": 1
   }, {
     "id": 14,
     "name": "Karlsruhe Ebertstraße",
-    "position": 0.7347666666666651,
+    "position": 0.735165672920158,
     "priority": 1
   }, {
     "id": 15,
     "name": "Karlsruhe, Hbf Vorplatz",
-    "position": 0.7856999999999983,
+    "position": 0.786665476186111,
     "priority": 1
   }, {
     "id": 16,
     "name": "Karlsruhe Poststraße",
-    "position": 0.8150999999999983,
+    "position": 0.8156001919405694,
     "priority": 1,
     "size": 0
   }, {
     "id": 17,
     "name": "Karlsruhe Tivoli",
-    "position": 0.8517666666666648,
+    "position": 0.8525291026691261,
     "priority": 1,
     "size": 0
   }, {
     "id": 18,
     "name": "Karlsruhe Kronenpl.(Kaiserstr)",
-    "position": 0.8721066666666649,
+    "position": 0.8716928545408885,
     "priority": 1
   }, {
     "id": 19,
     "name": "Karlsruhe Marktpl.(Kaiserstr)",
-    "position": 0.8926866666666649,
+    "position": 0.8927087971805436,
     "priority": 1,
     "size": 0
   }, {
     "id": 20,
     "name": "Karlsruhe Herrenstraße",
-    "position": 0.9135066666666647,
+    "position": 0.9137188808535575,
     "priority": 1
   }, {
     "id": 21,
     "name": "Karlsruhe Europaplatz (Kaiser)",
-    "position": 0.9345666666666649,
+    "position": 0.934909624125174,
     "priority": 1,
     "size": 0
   }, {
     "id": 22,
     "name": "Karlsruhe Europaplatz (Karl)",
-    "position": 0.955866666666665,
+    "position": 0.9565685807092584,
     "priority": 1
   }, {
     "id": 23,
     "name": "Karlsruhe Karlstor",
-    "position": 0.9774066666666649,
+    "position": 0.9782253543974933,
     "priority": 1,
     "size": 0
   }, {
     "id": 24,
     "name": "Karlsruhe Mathystraße",
-    "position": 0.999186666666665,
+    "position": 0.9999999999965077,
     "priority": 1
   }]
 }

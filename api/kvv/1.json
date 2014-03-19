@@ -8,132 +8,132 @@
   }, {
     "id": 1,
     "name": "Durlach Karl-Weysser-Str.",
-    "position": 0.0161,
+    "position": 0.016155576371491988,
     "priority": 1
   }, {
     "id": 2,
     "name": "Durlach Schlossplatz",
-    "position": 0.032339999999999994,
+    "position": 0.03231719700183826,
     "priority": 1
   }, {
     "id": 3,
     "name": "Durlach Friedrichschule",
-    "position": 0.04920666666666666,
+    "position": 0.04897896038879824,
     "priority": 1
   }, {
     "id": 4,
     "name": "Durlach, Auer Straße/Dr. Willmar Schwabe",
-    "position": 0.06394000000000002,
+    "position": 0.06433293420511292,
     "priority": 1
   }, {
     "id": 5,
     "name": "Karlsruhe Untermühlstraße",
-    "position": 0.11224000000000005,
+    "position": 0.11201358788076347,
     "priority": 1
   }, {
     "id": 6,
     "name": "Karlsruhe Weinweg",
-    "position": 0.13266666666666665,
+    "position": 0.13309692245521118,
     "priority": 1
   }, {
     "id": 7,
     "name": "Karlsruhe Tullastraße / VBK",
-    "position": 0.15194000000000002,
+    "position": 0.15177956433639334,
     "priority": 1,
     "size": 0
   }, {
     "id": 8,
     "name": "Karlsruhe Gottesauer Platz/BGV",
-    "position": 0.16950000000000007,
+    "position": 0.17008209228515628,
     "priority": 1
   }, {
     "id": 9,
     "name": "Karlsruhe Durlacher Tor / KIT",
-    "position": 0.20750000000000038,
+    "position": 0.20758576213214813,
     "priority": 1
   }, {
     "id": 10,
     "name": "Karlsruhe Kronenpl.(Kaiserstr)",
-    "position": 0.23320000000000024,
+    "position": 0.23393061326479814,
     "priority": 1,
     "size": 0
   }, {
     "id": 11,
     "name": "Karlsruhe Marktpl.(Kaiserstr)",
-    "position": 0.30300666666666665,
+    "position": 0.30313568554624115,
     "priority": 1
   }, {
     "id": 12,
     "name": "Karlsruhe Herrenstraße",
-    "position": 0.37519999999999964,
+    "position": 0.3748040400938031,
     "priority": 0
   }, {
     "id": 13,
     "name": "Karlsruhe Europaplatz (Kaiser)",
-    "position": 0.4188999999999996,
+    "position": 0.4196596736695314,
     "priority": 1,
     "size": 0
   }, {
     "id": 14,
     "name": "KA Mühlburger Tor (Kaiseralle)",
-    "position": 0.462,
+    "position": 0.4619585153647484,
     "priority": 0
   }, {
     "id": 15,
     "name": "Karlsruhe Schillerstraße",
-    "position": 0.5145,
+    "position": 0.5150501216405989,
     "priority": 1
   }, {
     "id": 16,
     "name": "Karlsruhe Sophienstraße",
-    "position": 0.5748,
+    "position": 0.5735839199037233,
     "priority": 0
   }, {
     "id": 17,
     "name": "Karlsruhe Weinbrennerplatz",
-    "position": 0.6497399999999998,
+    "position": 0.648549351069223,
     "priority": 1
   }, {
     "id": 18,
     "name": "Karlsruhe Landesbausparkasse",
-    "position": 0.6946399999999996,
+    "position": 0.6953656166526978,
     "priority": 1
   }, {
     "id": 19,
     "name": "Karlsruhe Europahalle/-bad",
-    "position": 0.7378999999999997,
+    "position": 0.7373500920261806,
     "priority": 1
   }, {
     "id": 20,
     "name": "Karlsruhe Bannwaldallee",
-    "position": 0.7504999999999997,
+    "position": 0.7516027248362582,
     "priority": 1
   }, {
     "id": 21,
     "name": "Karlsruhe Hardecksiedlung",
-    "position": 0.8052399999999998,
+    "position": 0.8047188670293309,
     "priority": 1
   }, {
     "id": 22,
     "name": "Oberreut Albert-Braun-Str.",
-    "position": 0.85514,
+    "position": 0.8551429589350636,
     "priority": 1,
     "size": 0
   }, {
     "id": 23,
     "name": "Oberreut Zentrum",
-    "position": 0.87552,
+    "position": 0.8756226980526042,
     "priority": 1,
     "size": 0
   }, {
     "id": 24,
     "name": "Oberreut Wilhelm-Leuschner-Str",
-    "position": 0.8995999999999998,
+    "position": 0.9007436133685238,
     "priority": 1
   }, {
     "id": 25,
     "name": "Oberreut Badeniaplatz",
-    "position": 0.9522999999999997,
+    "position": 0.9528308805307768,
     "priority": 1
   }]
 }

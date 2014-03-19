@@ -3,82 +3,82 @@
   "stops": [{
     "id": 0,
     "name": "Neureut-Heide",
-    "position": 0.0028999999999999994,
+    "position": 0.002960821761382707,
     "priority": 1,
     "size": 0
   }, {
     "id": 1,
     "name": "Heidehof",
-    "position": 0.0371,
+    "position": 0.03724730596029987,
     "priority": 1
   }, {
     "id": 2,
     "name": "Duale Hochschule",
-    "position": 0.07854000000000003,
+    "position": 0.07805097230046613,
     "priority": 1
   }, {
     "id": 3,
     "name": "Lilienthalstrae",
-    "position": 0.11970000000000001,
+    "position": 0.11956321104388715,
     "priority": 1
   }, {
     "id": 4,
     "name": "Synagoge",
-    "position": 0.15914000000000003,
+    "position": 0.15929389568278565,
     "priority": 1,
     "size": 0
   }, {
     "id": 5,
     "name": "Kunstakademie/Hochschule",
-    "position": 0.19602000000000003,
+    "position": 0.19544491197833547,
     "priority": 1
   }, {
     "id": 6,
     "name": "Mühlburger Tor",
-    "position": 0.2930400000000001,
+    "position": 0.2931676904056417,
     "priority": 1
   }, {
     "id": 7,
     "name": "Europaplatz/Post Galerie",
-    "position": 0.4800666666666668,
+    "position": 0.4788701029274129,
     "priority": 1,
     "size": 0
   }, {
     "id": 8,
     "name": "Karlstor",
-    "position": 0.5266866666666667,
+    "position": 0.5258983502119243,
     "priority": 1
   }, {
     "id": 9,
     "name": "Mathystraße",
-    "position": 0.6006666666666667,
+    "position": 0.6004788373443333,
     "priority": 1,
     "size": 0
   }, {
     "id": 10,
     "name": "Kolpingplatz",
-    "position": 0.6497400000000001,
+    "position": 0.648752518400963,
     "priority": 1
   }, {
     "id": 11,
     "name": "Ebertstraße",
-    "position": 0.7600200000000003,
+    "position": 0.761492274919147,
     "priority": 1
   }, {
     "id": 12,
     "name": "Hbf Vorplatz",
-    "position": 0.8383400000000002,
+    "position": 0.8375138386733187,
     "priority": 1
   }, {
     "id": 13,
     "name": "Poststraße",
-    "position": 0.9135066666666669,
+    "position": 0.9129413162772545,
     "priority": 0,
     "size": 0
   }, {
     "id": 14,
     "name": "Tivoli",
-    "position": 0.9991866666666668,
+    "position": 0.9999999999906873,
     "priority": 1
   }, {
     "id": 15,

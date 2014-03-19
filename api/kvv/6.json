@@ -9,138 +9,138 @@
   }, {
     "id": 1,
     "name": "Karlsruhe Hauptfriedhof",
-    "position": 0.014299999999999998,
+    "position": 0.01451384082043659,
     "priority": 1,
     "size": 0
   }, {
     "id": 2,
     "name": "Karlsruhe Rintheimer Str.",
-    "position": 0.028520000000000004,
+    "position": 0.028335563314321893,
     "priority": 1,
     "size": 0
   }, {
     "id": 3,
     "name": "Karlsruhe Tullastraße / VBK",
-    "position": 0.042186666666666664,
+    "position": 0.04212143038574138,
     "priority": 1
   }, {
     "id": 4,
     "name": "Karlsruhe Schloss Gottesaue",
-    "position": 0.055900000000000005,
+    "position": 0.05612786263751324,
     "priority": 1,
     "size": 0
   }, {
     "id": 5,
     "name": "Karlsruhe Wolfartsweierer Str.",
-    "position": 0.06960000000000001,
+    "position": 0.06977900023762554,
     "priority": 1
   }, {
     "id": 6,
     "name": "Karlsruhe Ostendstraße",
-    "position": 0.08374000000000002,
+    "position": 0.08367677969072239,
     "priority": 1
   }, {
     "id": 7,
     "name": "Karlsruhe Philipp-Reis-Straße",
-    "position": 0.09804000000000002,
+    "position": 0.0977201538946245,
     "priority": 1,
     "size": 0
   }, {
     "id": 8,
     "name": "KA Volkswohnung / Staatstheater",
-    "position": 0.11102000000000001,
+    "position": 0.11160376267258489,
     "priority": 1,
     "size": 0
   }, {
     "id": 9,
     "name": "Karlsruhe Konzerthaus",
-    "position": 0.24030666666666664,
+    "position": 0.23970715085642202,
     "priority": 1
   }, {
     "id": 10,
     "name": "Karlsruhe Karlstor",
-    "position": 0.2604,
+    "position": 0.2600339163954011,
     "priority": 1
   }, {
     "id": 11,
     "name": "Karlsruhe Europaplatz (Karl)",
-    "position": 0.28129999999999994,
+    "position": 0.28097782983257463,
     "priority": 1,
     "size": 0
   }, {
     "id": 12,
     "name": "KA Mühlburger Tor (Kaiseralle)",
-    "position": 0.3213666666666666,
+    "position": 0.32113876597497537,
     "priority": 1
   }, {
     "id": 13,
     "name": "Karlsruhe Yorckstraße",
-    "position": 0.38874,
+    "position": 0.3883220508595466,
     "priority": 1
   }, {
     "id": 14,
     "name": "Karlsruhe Händelstraße",
-    "position": 0.4356066666666666,
+    "position": 0.43675520082555674,
     "priority": 1,
     "size": 0
   }, {
     "id": 15,
     "name": "Karlsruhe Philippstraße",
-    "position": 0.45756666666666657,
+    "position": 0.4581717539332488,
     "priority": 1
   }, {
     "id": 16,
     "name": "Karlsruhe Entenfang",
-    "position": 0.5427066666666666,
+    "position": 0.5416294095497274,
     "priority": 1,
     "size": 0
   }, {
     "id": 17,
     "name": "Karlsruhe Eckenerstraße",
-    "position": 0.5922066666666665,
+    "position": 0.5912142006624347,
     "priority": 1,
     "size": 0
   }, {
     "id": 18,
     "name": "Karlsruhe Stadtwerke",
-    "position": 0.6675199999999999,
+    "position": 0.6677840008060794,
     "priority": 1
   }, {
     "id": 19,
     "name": "Daxlanden Mauerweg",
-    "position": 0.7316400000000001,
+    "position": 0.7319684684487456,
     "priority": 1,
     "size": 0
   }, {
     "id": 20,
     "name": "Daxlanden Ankerstraße",
-    "position": 0.7696,
+    "position": 0.7688703069448336,
     "priority": 1
   }, {
     "id": 21,
     "name": "Daxlanden Kirchplatz",
-    "position": 0.80852,
+    "position": 0.8081342983476858,
     "priority": 1
   }, {
     "id": 22,
     "name": "Daxlanden Hammweg",
-    "position": 0.8517666666666667,
+    "position": 0.8517247145690295,
     "priority": 1
   }, {
     "id": 23,
     "name": "Daxlanden Waidweg",
-    "position": 0.9416399999999999,
+    "position": 0.9428587815891982,
     "priority": 1,
     "size": 0
   }, {
     "id": 24,
     "name": "Daxlanden Altrheinbrücke",
-    "position": 0.9666066666666666,
+    "position": 0.9650858845735767,
     "priority": 1
   }, {
     "id": 25,
     "name": "Daxlanden Rappenwört",
-    "position": 0.9991866666666667,
+    "position": 0.9999999999994184,
     "priority": 1
   }]
 }

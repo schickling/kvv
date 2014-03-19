@@ -8,97 +8,97 @@
   }, {
     "id": 1,
     "name": "Germersheim Mitte/Rhein",
-    "position": 0.013019999999999997,
+    "position": 0.012942216869396363,
     "priority": 1
   }, {
     "id": 2,
     "name": "Germersheim Süd/Nolte",
-    "position": 0.029766666666666667,
+    "position": 0.02985804009571333,
     "priority": 1
   }, {
     "id": 3,
     "name": "Sondernheim",
-    "position": 0.039966666666666664,
+    "position": 0.03981772939566709,
     "priority": 1
   }, {
     "id": 4,
     "name": "Bellheim Am Mühlbuckel",
-    "position": 0.05002,
+    "position": 0.05019451269540924,
     "priority": 1
   }, {
     "id": 5,
     "name": "Bellheim Bf",
-    "position": 0.0603,
+    "position": 0.06009339851114972,
     "priority": 1
   }, {
     "id": 6,
     "name": "Rülzheim Bf",
-    "position": 0.07056666666666667,
+    "position": 0.0703826253076204,
     "priority": 1
   }, {
     "id": 7,
     "name": "Rülzheim Freizeitzentrum",
-    "position": 0.0806,
+    "position": 0.08053635573182415,
     "priority": 1
   }, {
     "id": 8,
     "name": "Rheinzabern Bf",
-    "position": 0.09019999999999999,
+    "position": 0.09064948878834325,
     "priority": 1
   }, {
     "id": 9,
     "name": "Rheinzabern Rappengasse",
-    "position": 0.10033999999999998,
+    "position": 0.10079392683863157,
     "priority": 1
   }, {
     "id": 10,
     "name": "Rheinzabern Alte Römerstraße",
-    "position": 0.11101999999999998,
+    "position": 0.11092613619554162,
     "priority": 1
   }, {
     "id": 11,
     "name": "Jockgrim Bf",
-    "position": 0.12096666666666665,
+    "position": 0.1212745489179181,
     "priority": 1
   }, {
     "id": 12,
     "name": "Wörth(Rhein) Zügelstraße",
-    "position": 0.13133999999999998,
+    "position": 0.13164008181667705,
     "priority": 1
   }, {
     "id": 13,
     "name": "Wörth(Rhein)",
-    "position": 0.14490666666666666,
+    "position": 0.14550639975621718,
     "priority": 1
   }, {
     "id": 14,
     "name": "Maximiliansau West",
-    "position": 0.15768666666666664,
+    "position": 0.15723127462887976,
     "priority": 1
   }, {
     "id": 15,
     "name": "Maximiliansau Eisenbahnstraße",
-    "position": 0.6885666666666667,
+    "position": 0.6900113693553319,
     "priority": 1
   }, {
     "id": 16,
     "name": "KA Knielingen",
-    "position": 0.8484,
+    "position": 0.8477246691512194,
     "priority": 1
   }, {
     "id": 17,
     "name": "KA Mühlburg",
-    "position": 0.9240066666666668,
+    "position": 0.9241192971788443,
     "priority": 1
   }, {
     "id": 18,
     "name": "KA West",
-    "position": 0.9702000000000001,
+    "position": 0.9698898435412362,
     "priority": 1
   }, {
     "id": 19,
     "name": "Albtalbf",
-    "position": 0.1,
+    "position": 1,
     "priority": 1
   }]
 }

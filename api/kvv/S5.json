@@ -3,302 +3,302 @@
   "stops": [{
     "id": 4,
     "name": "Vaihingen (E)",
-    "position": 0.016566666666666664,
+    "position": 0.016437450896562168,
     "priority": 1
   }, {
     "id": 5,
     "name": "Illingen",
-    "position": 0.026106666666666667,
+    "position": 0.025828580689659646,
     "priority": 1
   }, {
     "id": 6,
     "name": "Mühlacker Rößlesweg",
-    "position": 0.03570666666666669,
+    "position": 0.03541449167385621,
     "priority": 1
   }, {
     "id": 7,
     "name": "Mühlacker Bahnhof",
-    "position": 0.06674000000000002,
+    "position": 0.0665302259448374,
     "priority": 1,
     "size": 0
   }, {
     "id": 8,
     "name": "Enzberg",
-    "position": 0.08694000000000006,
+    "position": 0.0866956093548315,
     "priority": 1,
     "size": 0
   }, {
     "id": 9,
     "name": "Niefern",
-    "position": 0.10980666666666675,
+    "position": 0.11028600309629384,
     "priority": 1
   }, {
     "id": 10,
     "name": "Eutingen",
-    "position": 0.13266666666666677,
+    "position": 0.13317302197886352,
     "priority": 1
   }, {
     "id": 11,
     "name": "Pforzheim Hauptbahnhof",
-    "position": 0.16354000000000007,
+    "position": 0.16331510546226682,
     "priority": 1
   }, {
     "id": 12,
     "name": "Ispringen",
-    "position": 0.17710000000000006,
+    "position": 0.17729428652908827,
     "priority": 1
   }, {
     "id": 13,
     "name": "Ersingen",
-    "position": 0.18802000000000005,
+    "position": 0.18746062890264972,
     "priority": 1
   }, {
     "id": 14,
     "name": "Ersingen  West",
-    "position": 0.19764000000000004,
+    "position": 0.19786826402040358,
     "priority": 1
   }, {
     "id": 15,
     "name": "Bilfingen",
-    "position": 0.20750000000000002,
+    "position": 0.20687230332829584,
     "priority": 1
   }, {
     "id": 16,
     "name": "Königsbach",
-    "position": 0.21760000000000002,
+    "position": 0.21702708068011645,
     "priority": 1,
     "size": 0
   }, {
     "id": 17,
     "name": "Remchingen / Wilferd.-Singen",
-    "position": 0.2262,
+    "position": 0.2260037840964427,
     "priority": 1,
     "size": 0
   }, {
     "id": 18,
     "name": "Kleinsteinbach Bahnhof",
-    "position": 0.2349666666666667,
+    "position": 0.23415567794493977,
     "priority": 1,
     "size": 0
   }, {
     "id": 19,
     "name": "Söllingen Kapellenstraße",
-    "position": 0.24390000000000003,
+    "position": 0.2440150165078968,
     "priority": 1,
     "size": 0
   }, {
     "id": 20,
     "name": "Söllingen Bahnhof",
-    "position": 0.25484000000000007,
+    "position": 0.25408568366723966,
     "priority": 1
   }, {
     "id": 21,
     "name": "Söllingen Reetzstraße",
-    "position": 0.26414000000000004,
+    "position": 0.2641390022939412,
     "priority": 1
   }, {
     "id": 22,
     "name": "Berghausen Am Stadion",
-    "position": 0.2736066666666667,
+    "position": 0.2744215230379296,
     "priority": 1,
     "size": 0
   }, {
     "id": 23,
     "name": "Berghausen Bahnhof",
-    "position": 0.28518666666666675,
+    "position": 0.28470299166807755,
     "priority": 1
   }, {
     "id": 24,
     "name": "Berghausen Pfinzbrücke",
-    "position": 0.2950200000000001,
+    "position": 0.2941680626431479,
     "priority": 1
   }, {
     "id": 25,
     "name": "KA-Grötzingen Krappmühlenweg",
-    "position": 0.3010000000000001,
+    "position": 0.3015251761830633,
     "priority": 1
   }, {
     "id": 26,
     "name": "KA-Grötzingen Oberausstraße",
-    "position": 0.30906666666666677,
+    "position": 0.30850594255962605,
     "priority": 1,
     "size": 0
   }, {
     "id": 27,
     "name": "Grötzingen (b KA)",
-    "position": 0.3297000000000001,
+    "position": 0.3303667694288494,
     "priority": 1
   }, {
     "id": 28,
     "name": "Durlach Hubstraße",
-    "position": 0.3575200000000001,
+    "position": 0.35822933997567674,
     "priority": 1
   }, {
     "id": 29,
     "name": "Karlsruhe-Durlach",
-    "position": 0.3752000000000001,
+    "position": 0.37603320333373236,
     "priority": 1,
     "size": 0
   }, {
     "id": 30,
     "name": "Karlsruhe Weinweg",
-    "position": 0.3910200000000001,
+    "position": 0.38988810717468725,
     "priority": 1
   }, {
     "id": 31,
     "name": "Karlsruhe Tullastraße / VBK",
-    "position": 0.40020666666666677,
+    "position": 0.39919757343939843,
     "priority": 1
   }, {
     "id": 32,
     "name": "Karlsruhe Gottesauer Platz/BGV",
-    "position": 0.42126666666666673,
+    "position": 0.4219461511152507,
     "priority": 1
   }, {
     "id": 33,
     "name": "Karlsruhe Durlacher Tor / KIT",
-    "position": 0.45018666666666673,
+    "position": 0.4504377443083409,
     "priority": 1,
     "size": 0
   }, {
     "id": 34,
     "name": "Karlsruhe Kronenpl.(Kaiserstr)",
-    "position": 0.4953666666666667,
+    "position": 0.4960604059536649,
     "priority": 0
   }, {
     "id": 35,
     "name": "Karlsruhe Marktpl.(Kaiserstr)",
-    "position": 0.532,
+    "position": 0.5316830607337126,
     "priority": 1
   }, {
     "id": 36,
     "name": "Karlsruhe Herrenstraße",
-    "position": 0.564,
+    "position": 0.5639936918256696,
     "priority": 0
   }, {
     "id": 37,
     "name": "Karlsruhe Europaplatz (Kaiser)",
-    "position": 0.5894,
+    "position": 0.5897360335206745,
     "priority": 1
   }, {
     "id": 38,
     "name": "KA Mühlburger Tor (Kaiseralle)",
-    "position": 0.6169,
+    "position": 0.617034394413563,
     "priority": 0
   }, {
     "id": 39,
     "name": "Karlsruhe Yorckstraße",
-    "position": 0.6615666666666666,
+    "position": 0.6606505124236016,
     "priority": 1
   }, {
     "id": 40,
     "name": "Karlsruhe Händelstraße",
-    "position": 0.7068666666666666,
+    "position": 0.7066196169598786,
     "priority": 1,
     "size": 0
   }, {
     "id": 41,
     "name": "Karlsruhe Philippstraße",
-    "position": 0.7347666666666668,
+    "position": 0.7334607624670485,
     "priority": 1,
     "size": 0
   }, {
     "id": 42,
     "name": "Karlsruhe Entenfang",
-    "position": 0.74734,
+    "position": 0.7477913053654173,
     "priority": 1,
     "size": 0
   }, {
     "id": 43,
     "name": "Karlsruhe Lameyplatz",
-    "position": 0.7632066666666666,
+    "position": 0.7617006846541724,
     "priority": 1,
     "size": 0
   }, {
     "id": 44,
     "name": "Karlsruhe Starckstraße",
-    "position": 0.7954399999999998,
+    "position": 0.7966954634257258,
     "priority": 1
   }, {
     "id": 45,
     "name": "Karlsruhe Mühlburg West",
-    "position": 0.8052399999999998,
+    "position": 0.8060922142187691,
     "priority": 1,
     "size": 0
   }, {
     "id": 46,
     "name": "Knielingen Siemens",
-    "position": 0.8150999999999998,
+    "position": 0.8164746393883457,
     "priority": 1
   }, {
     "id": 47,
     "name": "Knielingen Herweghstraße",
-    "position": 0.8283399999999999,
+    "position": 0.8270547240288179,
     "priority": 1
   }, {
     "id": 48,
     "name": "Knielingen Eggensteiner Str.",
-    "position": 0.8383399999999998,
+    "position": 0.8391451217595953,
     "priority": 1
   }, {
     "id": 49,
     "name": "Knielingen Rheinbergstraße",
-    "position": 0.8517666666666664,
+    "position": 0.8503155596501801,
     "priority": 1,
     "size": 0
   }, {
     "id": 50,
     "name": "Maxau",
-    "position": 0.8619066666666666,
+    "position": 0.8614213365666926,
     "priority": 1,
     "size": 0
   }, {
     "id": 51,
     "name": "Maximiliansau Eisenbahnstraße",
-    "position": 0.8755199999999999,
+    "position": 0.8767205619076814,
     "priority": 1
   }, {
     "id": 52,
     "name": "Maximiliansau West",
-    "position": 0.8926866666666664,
+    "position": 0.892554415155676,
     "priority": 1,
     "size": 0
   }, {
     "id": 53,
     "name": "Wörth Bahnhof",
-    "position": 0.9030666666666665,
+    "position": 0.9040397425108192,
     "priority": 1
   }, {
     "id": 54,
     "name": "Wörth Alte Bahnmeisterei",
-    "position": 0.9169999999999998,
+    "position": 0.91668474655798,
     "priority": 1
   }, {
     "id": 55,
     "name": "Wörth Bienwaldhalle",
-    "position": 0.9487399999999997,
+    "position": 0.9499168698019217,
     "priority": 1,
     "size": 0
   }, {
     "id": 56,
     "name": "Wörth Bürgerpark",
-    "position": 0.9594399999999998,
+    "position": 0.9599312878652989,
     "priority": 1
   }, {
     "id": 57,
     "name": "Wörth Rathaus",
-    "position": 0.9701999999999997,
+    "position": 0.9695719396001427,
     "priority": 1,
     "size": 0
   }, {
     "id": 58,
     "name": "Wörth Badallee",
-    "position": 0.9810199999999998,
+    "position": 0.9794297016812699,
     "priority": 1
   }, {
     "id": 59,
     "name": "Wörth Badepark",
-    "position": 0.9882666666666664,
+    "position": 0.989390499490008,
     "priority": 1,
     "size": 0
   }]

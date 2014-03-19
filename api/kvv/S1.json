@@ -8,288 +8,288 @@
   }, {
     "id": 1,
     "name": "Bad Herrenalb Kullenmühle",
-    "position": 0.009186666666666666,
+    "position": 0.009102623444635888,
     "priority": 1
   }, {
     "id": 2,
     "name": "Bad Herrenalb Steinhäusle",
-    "position": 0.0185,
+    "position": 0.018315039966013434,
     "priority": 1
   }, {
     "id": 3,
     "name": "Frauenalb / Schielberg",
-    "position": 0.0273,
+    "position": 0.02757625402712681,
     "priority": 1
   }, {
     "id": 4,
     "name": "Marxzell Bahnhof",
-    "position": 0.0371,
+    "position": 0.03689377300701987,
     "priority": 1
   }, {
     "id": 5,
     "name": "Fischweier",
-    "position": 0.04602,
+    "position": 0.04632577682028609,
     "priority": 1
   }, {
     "id": 6,
     "name": "Etzenrot Bahnhof",
-    "position": 0.0559,
+    "position": 0.055742767734964414,
     "priority": 1
   }, {
     "id": 7,
     "name": "Busenbach Bahnhof",
-    "position": 0.07350666666666668,
+    "position": 0.07397616480915026,
     "priority": 1,
     "size": 0
   }, {
     "id": 8,
     "name": "Ettlingen Spinnerei",
-    "position": 0.08374,
+    "position": 0.083288052334742,
     "priority": 1,
     "size": 0
   }, {
     "id": 9,
     "name": "Ettlingen Albgaubad",
-    "position": 0.09240666666666666,
+    "position": 0.09268064541737363,
     "priority": 1,
     "size": 0
   }, {
     "id": 10,
     "name": "Ettlingen Stadtbahnhof",
-    "position": 0.10266666666666667,
+    "position": 0.1024532954742566,
     "priority": 1
   }, {
     "id": 11,
     "name": "Ettlingen Erbprinz / Schloss",
-    "position": 0.11102000000000001,
+    "position": 0.11147521382305402,
     "priority": 1
   }, {
     "id": 12,
     "name": "Ettlingen Wasen",
-    "position": 0.12096666666666668,
+    "position": 0.12066229314766388,
     "priority": 1
   }, {
     "id": 13,
     "name": "Ettlingen Neuwiesenreben",
-    "position": 0.13002000000000002,
+    "position": 0.12983811054920313,
     "priority": 1
   }, {
     "id": 14,
     "name": "Rüppurr Battstraße",
-    "position": 0.13940000000000002,
+    "position": 0.13912747801951253,
     "priority": 1
   }, {
     "id": 15,
     "name": "Rüppurr Tulpenstraße",
-    "position": 0.14770000000000003,
+    "position": 0.14831549576198805,
     "priority": 1,
     "size": 0
   }, {
     "id": 16,
     "name": "Rüppurr Ostendorfplatz",
-    "position": 0.1576866666666667,
+    "position": 0.1577728375524821,
     "priority": 1,
     "size": 0
   }, {
     "id": 17,
     "name": "Karlsruhe Schloss Rüppurr",
-    "position": 0.1665066666666667,
+    "position": 0.16706501933794,
     "priority": 1,
     "size": 0
   }, {
     "id": 18,
     "name": "Karlsruhe Dammerstock",
-    "position": 0.1755666666666667,
+    "position": 0.17624740737853392,
     "priority": 1
   }, {
     "id": 19,
     "name": "Karlsruhe Albtalbahnhof",
-    "position": 0.1848666666666667,
+    "position": 0.18541947208616535,
     "priority": 1
   }, {
     "id": 20,
     "name": "Karlsruhe, Hbf Vorplatz",
-    "position": 0.1944066666666667,
+    "position": 0.1947154066887093,
     "priority": 1
   }, {
     "id": 21,
     "name": "Karlsruhe Poststraße",
-    "position": 0.2041866666666667,
+    "position": 0.2039362697466849,
     "priority": 1
   }, {
     "id": 22,
     "name": "Karlsruhe Tivoli",
-    "position": 0.21590000000000004,
+    "position": 0.2161525507296799,
     "priority": 1
   }, {
     "id": 23,
     "name": "Karlsruhe Werderstraße",
-    "position": 0.27170000000000005,
+    "position": 0.2722608626247892,
     "priority": 1
   }, {
     "id": 24,
     "name": "Karlsruhe Rüppurrer Tor",
-    "position": 0.32970000000000005,
+    "position": 0.3302858550739391,
     "priority": 1,
     "size": 0
   }, {
     "id": 25,
     "name": "Karlsruhe Kronenpl.(Erler-Str)",
-    "position": 0.3855,
+    "position": 0.3853407651861263,
     "priority": 0,
     "size": 0
   }, {
     "id": 26,
     "name": "Karlsruhe Kronenpl.(Kaiserstr)",
-    "position": 0.41890000000000005,
+    "position": 0.41979841236025095,
     "priority": 1,
     "size": 0
   }, {
     "id": 27,
     "name": "Karlsruhe Marktpl.(Kaiserstr)",
-    "position": 0.45264000000000004,
+    "position": 0.4522919576923296,
     "priority": 0
   }, {
     "id": 28,
     "name": "Karlsruhe Herrenstraße",
-    "position": 0.4928,
+    "position": 0.4930763963708385,
     "priority": 1,
     "size": 0
   }, {
     "id": 29,
     "name": "Karlsruhe Europaplatz (Kaiser)",
-    "position": 0.51614,
+    "position": 0.5166184020882835,
     "priority": 1,
     "size": 0
   }, {
     "id": 30,
     "name": "KA Mühlburger Tor (Kaiseralle)",
-    "position": 0.5508066666666666,
+    "position": 0.5509606242616197,
     "priority": 1
   }, {
     "id": 31,
     "name": "Karlsruhe Yorckstraße",
-    "position": 0.5922066666666667,
+    "position": 0.5926055891651455,
     "priority": 1
   }, {
     "id": 32,
     "name": "Karlsruhe St. Klinikum Moltk.",
-    "position": 0.6264066666666667,
+    "position": 0.6264720343735548,
     "priority": 1
   }, {
     "id": 33,
     "name": "Karlsruhe Knielinger Allee",
-    "position": 0.6605,
+    "position": 0.6607870446919617,
     "priority": 0
   }, {
     "id": 34,
     "name": "Karlsruhe August-Bebel-Str.",
-    "position": 0.6916,
+    "position": 0.6903780753389908,
     "priority": 1
   }, {
     "id": 35,
     "name": "Karlsruhe Kurt-Schumacher-Str.",
-    "position": 0.72852,
+    "position": 0.7288562756249222,
     "priority": 1
   }, {
     "id": 36,
     "name": "Karlsruhe Haus Bethlehem",
-    "position": 0.7857,
+    "position": 0.7844434082186427,
     "priority": 1
   }, {
     "id": 37,
     "name": "Neureut Welschneureuter Str.",
-    "position": 0.7954399999999999,
+    "position": 0.7968267510021855,
     "priority": 1
   }, {
     "id": 38,
     "name": "Neureut Bärenweg",
-    "position": 0.80852,
+    "position": 0.8088749982392692,
     "priority": 1
   }, {
     "id": 39,
     "name": "Neureut Adolf-Ehrmann-Bad",
-    "position": 0.8217066666666666,
+    "position": 0.8211435471758902,
     "priority": 1
   }, {
     "id": 40,
     "name": "Neureut Kirchfeld",
-    "position": 0.8349999999999999,
+    "position": 0.8335176021070692,
     "priority": 1
   }, {
     "id": 41,
     "name": "Eggenstein Süd",
-    "position": 0.8450399999999999,
+    "position": 0.8450290298592549,
     "priority": 1,
     "size": 0
   }, {
     "id": 42,
     "name": "Eggenstein Bahnhof",
-    "position": 0.85852,
+    "position": 0.8573679161136926,
     "priority": 1
   }, {
     "id": 43,
     "name": "Eggenstein Spöcker Weg",
-    "position": 0.8686999999999999,
+    "position": 0.869479201536906,
     "priority": 1,
     "size": 0
   }, {
     "id": 44,
     "name": "Eggenstein Schweriner Str.",
-    "position": 0.8823666666666666,
+    "position": 0.8816654691229627,
     "priority": 1
   }, {
     "id": 45,
     "name": "Leopoldshafen Viermorgen",
-    "position": 0.8926866666666665,
+    "position": 0.8935385378762998,
     "priority": 1,
     "size": 0
   }, {
     "id": 46,
     "name": "Leopoldshafen Leopoldstraße",
-    "position": 0.9065399999999999,
+    "position": 0.906037340770672,
     "priority": 1
   }, {
     "id": 47,
     "name": "Leopoldshafen Frankfurter Str.",
-    "position": 0.9169999999999999,
+    "position": 0.9181804625286262,
     "priority": 1,
     "size": 0
   }, {
     "id": 48,
     "name": "Linkenheim Süd",
-    "position": 0.9380999999999999,
+    "position": 0.9390461010861494,
     "priority": 1
   }, {
     "id": 49,
     "name": "Linkenheim Friedrichstraße",
-    "position": 0.9522999999999999,
+    "position": 0.9513073469408537,
     "priority": 1
   }, {
     "id": 50,
     "name": "Linkenheim Rathaus",
-    "position": 0.96302,
+    "position": 0.9634989266515882,
     "priority": 1
   }, {
     "id": 51,
     "name": "Linkenheim Schulzentrum",
-    "position": 0.9774066666666666,
+    "position": 0.9759731791118568,
     "priority": 1
   }, {
     "id": 52,
     "name": "Hochstetten Grenzstraße",
-    "position": 0.9882666666666666,
+    "position": 0.9879703324281531,
     "priority": 1,
     "size": 0
   }, {
     "id": 53,
     "name": "Hochstetten Altenheim",
-    "position": 0.9991866666666667,
+    "position": 0.9999999999906874,
     "priority": 1
   }, {
     "id": 54,
     "name": "Hochstetten",
-    "position": 0,
-    "priority": 1
+    "position": 1,
+    "priority": 0
   }]
 }

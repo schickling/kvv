@@ -3,259 +3,259 @@
   "stops": [{
     "id": 37,
     "name": "Eppingen Bahnhof",
-    "position": 0.020020000000000003,
+    "position": 0.020013287482592727,
     "priority": 1
   }, {
     "id": 38,
     "name": "Eppingen West",
-    "position": 0.0371,
+    "position": 0.03690638943529311,
     "priority": 1
   }, {
     "id": 39,
     "name": "Sulzfeld Ravensburg",
-    "position": 0.05334,
+    "position": 0.05350312116130247,
     "priority": 1
   }, {
     "id": 40,
     "name": "Sulzfeld (Baden)",
-    "position": 0.07056666666666668,
+    "position": 0.07039681583734939,
     "priority": 1
   }, {
     "id": 41,
     "name": "Zaisenhausen Bahnhof",
-    "position": 0.08694000000000002,
+    "position": 0.08695620491674853,
     "priority": 1
   }, {
     "id": 42,
     "name": "Flehingen Bahnhof",
-    "position": 0.10384000000000002,
+    "position": 0.10370112174745395,
     "priority": 1
   }, {
     "id": 43,
     "name": "Oberderdingen-Flehingen",
-    "position": 0.13668666666666665,
+    "position": 0.13630006655941532,
     "priority": 1,
     "size": 0
   }, {
     "id": 44,
     "name": "Bauerbach (Baden)",
-    "position": 0.15624,
+    "position": 0.1557751457591074,
     "priority": 1,
     "size": 0
   }, {
     "id": 45,
     "name": "Gölshausen Industrie",
-    "position": 0.16800000000000004,
+    "position": 0.16869333044904924,
     "priority": 1
   }, {
     "id": 46,
     "name": "Gölshausen",
-    "position": 0.18174,
+    "position": 0.18237081560612284,
     "priority": 1,
     "size": 0
   }, {
     "id": 47,
     "name": "Bretten Kupferhälde",
-    "position": 0.19602,
+    "position": 0.1962610951829013,
     "priority": 1
   }, {
     "id": 48,
     "name": "Bretten Schulzentrum",
-    "position": 0.21084,
+    "position": 0.21005244124264938,
     "priority": 1
   }, {
     "id": 49,
     "name": "Bretten Wannenweg",
-    "position": 0.31723999999999997,
+    "position": 0.31792496916542645,
     "priority": 1
   }, {
     "id": 50,
     "name": "Bretten Stadtmitte",
-    "position": 0.34668666666666664,
+    "position": 0.3473119720539343,
     "priority": 1
   }, {
     "id": 51,
     "name": "Bretten (Baden)",
-    "position": 0.3738,
+    "position": 0.3738127705545771,
     "priority": 0,
     "size": 0
   }, {
     "id": 52,
     "name": "Rinklingen",
-    "position": 0.40484,
+    "position": 0.40446547816947964,
     "priority": 1
   }, {
     "id": 53,
     "name": "Dürrenbüchig",
-    "position": 0.4453000000000001,
+    "position": 0.4462735068138434,
     "priority": 1
   }, {
     "id": 54,
     "name": "Wössingen Ost",
-    "position": 0.48260000000000014,
+    "position": 0.4834738774010925,
     "priority": 1,
     "size": 0
   }, {
     "id": 55,
     "name": "Wössingen Bahnhof",
-    "position": 0.5135200000000001,
+    "position": 0.5141508966901703,
     "priority": 1
   }, {
     "id": 56,
     "name": "Jöhlingen Bahnhof",
-    "position": 0.5427066666666668,
+    "position": 0.541746673985812,
     "priority": 0
   }, {
     "id": 57,
     "name": "Jöhlingen West",
-    "position": 0.5922066666666668,
+    "position": 0.5931882698628662,
     "priority": 1
   }, {
     "id": 58,
     "name": "Berghausen Hummelberg",
-    "position": 0.6264066666666668,
+    "position": 0.6253138178297944,
     "priority": 1
   }, {
     "id": 59,
     "name": "KA-Grötzingen Oberausstraße",
-    "position": 0.6497400000000001,
+    "position": 0.6484452640837665,
     "priority": 1
   }, {
     "id": 60,
     "name": "Grötzingen (b KA)",
-    "position": 0.6586000000000001,
+    "position": 0.6586700362641763,
     "priority": 1
   }, {
     "id": 61,
     "name": "Durlach Hubstraße",
-    "position": 0.6795066666666667,
+    "position": 0.679707688001651,
     "priority": 1,
     "size": 0
   }, {
     "id": 62,
     "name": "Karlsruhe-Durlach",
-    "position": 0.6976866666666668,
+    "position": 0.6988129751512392,
     "priority": 1
   }, {
     "id": 63,
     "name": "Karlsruhe Weinweg",
-    "position": 0.7285200000000001,
+    "position": 0.728367765100294,
     "priority": 1
   }, {
     "id": 64,
     "name": "Karlsruhe Tullastraße / VBK",
-    "position": 0.7536666666666667,
+    "position": 0.7534192112021669,
     "priority": 1,
     "size": 0
   }, {
     "id": 65,
     "name": "Karlsruhe Gottesauer Platz/BGV",
-    "position": 0.7824666666666669,
+    "position": 0.7836562431833538,
     "priority": 1,
     "size": 0
   }, {
     "id": 66,
     "name": "Karlsruhe Durlacher Tor / KIT",
-    "position": 0.7954400000000001,
+    "position": 0.7939345074948041,
     "priority": 1
   }, {
     "id": 67,
     "name": "Karlsruhe Kronenpl.(Erler-Str)",
-    "position": 0.8052400000000002,
+    "position": 0.805121297402048,
     "priority": 1,
     "size": 0
   }, {
     "id": 68,
     "name": "Karlsruhe Rüppurrer Tor",
-    "position": 0.8151000000000002,
+    "position": 0.8160057897264398,
     "priority": 1
   }, {
     "id": 69,
     "name": "Karlsruhe Werderstraße",
-    "position": 0.8283400000000002,
+    "position": 0.8271955433529505,
     "priority": 1
   }, {
     "id": 70,
     "name": "Karlsruhe Tivoli",
-    "position": 0.8383400000000001,
+    "position": 0.8378779122021829,
     "priority": 1
   }, {
     "id": 71,
     "name": "Karlsruhe Poststraße",
-    "position": 0.8484,
+    "position": 0.8488696905777731,
     "priority": 1
   }, {
     "id": 72,
     "name": "Karlsruhe, Hbf Vorplatz",
-    "position": 0.8653000000000002,
+    "position": 0.8644599479976749,
     "priority": 1
   }, {
     "id": 73,
     "name": "Karlsruhe Albtalbahnhof",
-    "position": 0.8755200000000002,
+    "position": 0.8747712609695854,
     "priority": 1
   }, {
     "id": 74,
     "name": "Forchheim Bahnhof",
-    "position": 0.8858000000000004,
+    "position": 0.8853455573264358,
     "priority": 1,
     "size": 0
   }, {
     "id": 75,
     "name": "Durmersheim Nord",
-    "position": 0.8961400000000002,
+    "position": 0.896327111732646,
     "priority": 1
   }, {
     "id": 76,
     "name": "Durmersheim Bahnhof",
-    "position": 0.9065400000000002,
+    "position": 0.907196814621878,
     "priority": 1
   }, {
     "id": 77,
     "name": "Bietigheim Bahnhof",
-    "position": 0.9170000000000001,
+    "position": 0.9160184297381061,
     "priority": 1
   }, {
     "id": 78,
     "name": "Ötigheim Bahnhof",
-    "position": 0.9240066666666668,
+    "position": 0.9244190713537733,
     "priority": 1
   }, {
     "id": 79,
     "name": "Rastatt Bahnhof",
-    "position": 0.9310400000000001,
+    "position": 0.932276919831055,
     "priority": 1
   }, {
     "id": 80,
     "name": "Haueneberstein",
-    "position": 0.9416400000000001,
+    "position": 0.9405513354538508,
     "priority": 1
   }, {
     "id": 81,
     "name": "Baden-Baden, Bahnhof",
-    "position": 0.9487400000000001,
+    "position": 0.9490320259574139,
     "priority": 1
   }, {
     "id": 82,
     "name": "Sinzheim Nord",
-    "position": 0.9558666666666668,
+    "position": 0.9575236106466635,
     "priority": 1
   }, {
     "id": 83,
     "name": "Sinzheim Bahnhof",
-    "position": 0.9666066666666668,
+    "position": 0.9657838397833508,
     "priority": 1,
     "size": 0
   }, {
     "id": 84,
     "name": "Baden-Baden Rebland",
-    "position": 0.9738,
+    "position": 0.9740993941766981,
     "priority": 1,
     "size": 0
   }, {
     "id": 85,
     "name": "Bühl Bahnhof",
-    "position": 0.98102,
+    "position": 0.9821785634457441,
     "priority": 1,
     "size": 0
   }]

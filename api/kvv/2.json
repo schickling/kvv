@@ -3,208 +3,208 @@
   "stops": [{
     "id": 0,
     "name": "Knielingen Lassallestraße",
-    "position": 0.00114,
+    "position": 0.0011319422964967353,
     "priority": 1
   }, {
     "id": 1,
     "name": "Knielingen Siemensallee",
-    "position": 0.011406666666666666,
+    "position": 0.011319422994521943,
     "priority": 1
   }, {
     "id": 2,
     "name": "Karlsruhe Neureuter Str.",
-    "position": 0.02214,
+    "position": 0.022353364912398477,
     "priority": 1
   }, {
     "id": 3,
     "name": "Karlsruhe Feierabendweg",
-    "position": 0.033666666666666664,
+    "position": 0.03395427616208109,
     "priority": 1,
     "size": 0
   }, {
     "id": 4,
     "name": "Karlsruhe Hertzstraße",
-    "position": 0.045239999999999995,
+    "position": 0.044991207793400476,
     "priority": 1
   }, {
     "id": 5,
     "name": "Karlsruhe Kußmaulstraße",
-    "position": 0.0559,
+    "position": 0.05630887221486666,
     "priority": 1,
     "size": 0
   }, {
     "id": 6,
     "name": "Karlsruhe St. Klinikum Moltk.",
-    "position": 0.07251999999999996,
+    "position": 0.0724246967283693,
     "priority": 1
   }, {
     "id": 7,
     "name": "Karlsruhe Yorckstraße",
-    "position": 0.08801999999999996,
+    "position": 0.08822306035776868,
     "priority": 1
   }, {
     "id": 8,
     "name": "Karlsruhe Poststraße",
-    "position": 0.1248066666666666,
+    "position": 0.12511142088219013,
     "priority": 1,
     "size": 0
   }, {
     "id": 9,
     "name": "Karlsruhe, Hbf Vorplatz",
-    "position": 0.16650666666666655,
+    "position": 0.16604849130963487,
     "priority": 1
   }, {
     "id": 10,
     "name": "Karlsruhe Ebertstraße",
-    "position": 0.17863999999999994,
+    "position": 0.1780482005192893,
     "priority": 1
   }, {
     "id": 11,
     "name": "Karlsruhe Barbarossaplatz",
-    "position": 0.2025399999999999,
+    "position": 0.20227090638275552,
     "priority": 1,
     "size": 0
   }, {
     "id": 12,
     "name": "Karlsruhe Welfenstraße",
-    "position": 0.24030666666666659,
+    "position": 0.24052544850560748,
     "priority": 1,
     "size": 0
   }, {
     "id": 13,
     "name": "Karlsruhe ZKM",
-    "position": 0.3006,
+    "position": 0.30178109481016147,
     "priority": 0,
     "size": 0
   }, {
     "id": 14,
     "name": "Karlsruhe Karlstor",
-    "position": 0.3276066666666666,
+    "position": 0.32775428818824404,
     "priority": 1
   }, {
     "id": 15,
     "name": "Karlsruhe Europaplatz (Karl)",
-    "position": 0.36409999999999987,
+    "position": 0.3642838827890229,
     "priority": 1
   }, {
     "id": 16,
     "name": "KA Mühlburger Tor (Kaiseralle)",
-    "position": 0.4094999999999999,
+    "position": 0.4085813565346143,
     "priority": 1
   }, {
     "id": 17,
     "name": "Karlsruhe Arbeitsagentur",
-    "position": 0.46500666666666657,
+    "position": 0.4652539148310101,
     "priority": 1,
     "size": 0
   }, {
     "id": 18,
     "name": "Karlsruhe Otto-Sachs-Str.",
-    "position": 0.50162,
+    "position": 0.5017545620541567,
     "priority": 0,
     "size": 0
   }, {
     "id": 19,
     "name": "Karlsruhe Mathystraße",
-    "position": 0.5319999999999998,
+    "position": 0.5333111967604516,
     "priority": 1
   }, {
     "id": 20,
     "name": "Karlsruhe Tivoli",
-    "position": 0.5644399999999998,
+    "position": 0.5651163796428599,
     "priority": 1,
     "size": 0
   }, {
     "id": 21,
     "name": "Karlsruhe Werderstraße",
-    "position": 0.6063399999999999,
+    "position": 0.6054770099874177,
     "priority": 1
   }, {
     "id": 22,
     "name": "Karlsruhe Rüppurrer Tor",
-    "position": 0.6264066666666666,
+    "position": 0.6258090035363544,
     "priority": 1
   }, {
     "id": 23,
     "name": "Karlsruhe Kronenpl.(Erler-Str)",
-    "position": 0.6438666666666666,
+    "position": 0.6434318104942081,
     "priority": 0
   }, {
     "id": 24,
     "name": "Karlsruhe Durlacher Tor / KIT",
-    "position": 0.6615666666666665,
+    "position": 0.6612623949310115,
     "priority": 1,
     "size": 0
   }, {
     "id": 25,
     "name": "Karlsruhe Gottesauer Platz/BGV",
-    "position": 0.6825199999999998,
+    "position": 0.6832422190758902,
     "priority": 1,
     "size": 0
   }, {
     "id": 26,
     "name": "Karlsruhe Tullastraße / VBK",
-    "position": 0.7068666666666665,
+    "position": 0.7066896227951656,
     "priority": 1,
     "size": 0
   }, {
     "id": 27,
     "name": "Karlsruhe Weinweg",
-    "position": 0.73164,
+    "position": 0.7319523264057927,
     "priority": 1
   }, {
     "id": 28,
     "name": "Karlsruhe Untermühlstraße",
-    "position": 0.7505,
+    "position": 0.7516275597421122,
     "priority": 1
   }, {
     "id": 29,
     "name": "Durlach, Auer Straße/Dr. Willmar Schwabe",
-    "position": 0.78894,
+    "position": 0.7892443818540317,
     "priority": 1,
     "size": 0
   }, {
     "id": 30,
     "name": "Durlach Gritznerstraße",
-    "position": 0.8517666666666666,
+    "position": 0.8509651825779551,
     "priority": 1
   }, {
     "id": 31,
     "name": "Durlach Killisfeldstraße",
-    "position": 0.9204999999999999,
+    "position": 0.9216345293728506,
     "priority": 1
   }, {
     "id": 32,
     "name": "Durlach Ellmendinger Str.",
-    "position": 0.9380999999999998,
+    "position": 0.9395861312320617,
     "priority": 1
   }, {
     "id": 33,
     "name": "Durlach Ostmarkstraße",
-    "position": 0.9558666666666665,
+    "position": 0.9549993882774418,
     "priority": 1,
     "size": 0
   }, {
     "id": 34,
     "name": "Durlach Schlesier Str. (West)",
-    "position": 0.9666066666666665,
+    "position": 0.9661239607525745,
     "priority": 1
   }, {
     "id": 35,
     "name": "Durlach Steiermärker Str.",
-    "position": 0.9774066666666666,
+    "position": 0.9768771902453127,
     "priority": 1,
     "size": 0
   }, {
     "id": 36,
     "name": "Durlach Zündhütle",
-    "position": 0.9882666666666666,
+    "position": 0.9882733419192996,
     "priority": 1,
     "size": 0
   }, {
     "id": 37,
     "name": "Wolfartsweier Nord",
-    "position": 0.9991866666666666,
+    "position": 0.9999999999997825,
     "priority": 1,
     "size": 0
   }]

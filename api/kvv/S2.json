@@ -3,248 +3,248 @@
   "stops": [{
     "id": 0,
     "name": "Spöck Richard-Hecht-Schule",
-    "position": 0.00018666666666666663,
+    "position": 0.00021224516895017577,
     "priority": 1
   }, {
     "id": 1,
     "name": "Spöck Hochhaus",
-    "position": 0.009186666666666664,
+    "position": 0.009282310344278814,
     "priority": 1,
     "size": 0
   }, {
     "id": 2,
     "name": "Friedrichstal Nord",
-    "position": 0.0185,
+    "position": 0.018308651186234808,
     "priority": 1
   }, {
     "id": 3,
     "name": "Friedrichstal Mitte",
-    "position": 0.027299999999999998,
+    "position": 0.027485294406942577,
     "priority": 1
   }, {
     "id": 4,
     "name": "Friedrichstal St-Riquier-Platz",
-    "position": 0.0371,
+    "position": 0.03679128876145118,
     "priority": 1,
     "size": 0
   }, {
     "id": 5,
     "name": "Blankenloch Nord",
-    "position": 0.04524000000000001,
+    "position": 0.04551247023569889,
     "priority": 1
   }, {
     "id": 6,
     "name": "Blankenloch Mühlenweg",
-    "position": 0.06302,
+    "position": 0.06337021429804737,
     "priority": 1
   }, {
     "id": 7,
     "name": "Blankenloch Kirche",
-    "position": 0.07252000000000002,
+    "position": 0.07253957012959293,
     "priority": 1
   }, {
     "id": 8,
     "name": "Blankenloch Tolna-Platz",
-    "position": 0.08060000000000002,
+    "position": 0.08097107793510085,
     "priority": 1
   }, {
     "id": 9,
     "name": "Blankenloch Süd",
-    "position": 0.09020000000000003,
+    "position": 0.09063870891477568,
     "priority": 1
   }, {
     "id": 10,
     "name": "Büchig",
-    "position": 0.09918666666666669,
+    "position": 0.09963590020925042,
     "priority": 1
   }, {
     "id": 11,
     "name": "Hagsfeld Reitschulschlag",
-    "position": 0.1171866666666667,
+    "position": 0.1171474933424179,
     "priority": 1,
     "size": 0
   }, {
     "id": 12,
     "name": "Hagsfeld Jenaer Straße",
-    "position": 0.12610000000000002,
+    "position": 0.125986183948553,
     "priority": 1
   }, {
     "id": 13,
     "name": "Hagsfeld Geroldsäcker",
-    "position": 0.13534,
+    "position": 0.13504622896085505,
     "priority": 1,
     "size": 0
   }, {
     "id": 14,
     "name": "Hagsfeld Bahnhof",
-    "position": 0.14352000000000004,
+    "position": 0.1440215580892982,
     "priority": 1
   }, {
     "id": 15,
     "name": "Hagsfeld Süd",
-    "position": 0.15768666666666667,
+    "position": 0.1573363914758376,
     "priority": 1
   }, {
     "id": 16,
     "name": "Rintheim Sinsheimer Straße",
-    "position": 0.2296866666666667,
+    "position": 0.22923405081070095,
     "priority": 1,
     "size": 0
   }, {
     "id": 17,
     "name": "Karlsruhe Hirtenweg/Techn.park",
-    "position": 0.2457066666666667,
+    "position": 0.24629459935191986,
     "priority": 1
   }, {
     "id": 18,
     "name": "Karlsruhe Hauptfriedhof",
-    "position": 0.2774400000000001,
+    "position": 0.2766884724564578,
     "priority": 1,
     "size": 0
   }, {
     "id": 19,
     "name": "Karlsruhe Durlacher Tor / KIT",
-    "position": 0.2930400000000001,
+    "position": 0.29272072584731645,
     "priority": 1
   }, {
     "id": 20,
     "name": "Karlsruhe Kronenpl.(Kaiserstr)",
-    "position": 0.3375,
+    "position": 0.33836352397151487,
     "priority": 0,
     "size": 0
   }, {
     "id": 21,
     "name": "Karlsruhe Marktpl.(Kaiserstr)",
-    "position": 0.3824,
+    "position": 0.3820113338284819,
     "priority": 1
   }, {
     "id": 22,
     "name": "Karlsruhe Herrenstraße",
-    "position": 0.4215,
+    "position": 0.4216009795424731,
     "priority": 0,
     "size": 0
   }, {
     "id": 23,
     "name": "Karlsruhe Europaplatz (Kaiser)",
-    "position": 0.455,
+    "position": 0.4531426162456569,
     "priority": 1,
     "size": 0
   }, {
     "id": 24,
     "name": "KA Mühlburger Tor (Kaiseralle)",
-    "position": 0.4863,
+    "position": 0.48659081581092845,
     "priority": 0
   }, {
     "id": 25,
     "name": "Karlsruhe Yorckstraße",
-    "position": 0.5400200000000001,
+    "position": 0.5400328750073754,
     "priority": 1,
     "size": 0
   }, {
     "id": 26,
     "name": "Karlsruhe Händelstraße",
-    "position": 0.59784,
+    "position": 0.5971405060815548,
     "priority": 1
   }, {
     "id": 27,
     "name": "Karlsruhe Philippstraße",
-    "position": 0.6293000000000001,
+    "position": 0.6300284876965534,
     "priority": 1,
     "size": 0
   }, {
     "id": 28,
     "name": "Karlsruhe Entenfang",
-    "position": 0.6468,
+    "position": 0.6475874488535086,
     "priority": 1
   }, {
     "id": 29,
     "name": "Karlsruhe Eckenerstraße",
-    "position": 0.66454,
+    "position": 0.6646290054711653,
     "priority": 1
   }, {
     "id": 30,
     "name": "Karlsruhe Rheinhafenstraße",
-    "position": 0.7760199999999999,
+    "position": 0.7768921094281342,
     "priority": 1
   }, {
     "id": 31,
     "name": "Daxlanden Thomas-Mann-Str.",
-    "position": 0.78894,
+    "position": 0.7889616333310076,
     "priority": 1
   }, {
     "id": 32,
     "name": "Daxlanden Karl-Delisle-Str.",
-    "position": 0.8019666666666666,
+    "position": 0.8007258444841957,
     "priority": 1
   }, {
     "id": 33,
     "name": "Daxlanden Dornröschenweg",
-    "position": 0.8686999999999999,
+    "position": 0.8565152955885394,
     "priority": 1
   }, {
     "id": 34,
     "name": "Daxlanden Nussbaumweg",
-    "position": 0.8823666666666666,
+    "position": 0.8680782787437851,
     "priority": 1,
     "size": 0
   }, {
     "id": 35,
     "name": "Forchheim Messe/Leichtsandstr.",
-    "position": 0.9030666666666666,
+    "position": 0.9017814304739716,
     "priority": 1,
     "size": 0
   }, {
     "id": 36,
     "name": "Forchheim Hallenbad",
-    "position": 0.9100199999999999,
+    "position": 0.9108925533955343,
     "priority": 1
   }, {
     "id": 37,
     "name": "Forchheim Hauptstraße",
-    "position": 0.9205,
+    "position": 0.9200254723156267,
     "priority": 1
   }, {
     "id": 38,
     "name": "Forchheim Oberfeldstraße",
-    "position": 0.92752,
+    "position": 0.9289333930982482,
     "priority": 1
   }, {
     "id": 39,
     "name": "Mörsch Rösselsbrünnle",
-    "position": 0.9380999999999998,
+    "position": 0.9380899939201334,
     "priority": 1
   }, {
     "id": 40,
     "name": "Mörsch Narzissenstraße",
-    "position": 0.9487399999999998,
+    "position": 0.9471463973421481,
     "priority": 1
   }, {
     "id": 41,
     "name": "Mörsch Römerstraße",
-    "position": 0.9558666666666664,
+    "position": 0.9560187892278232,
     "priority": 1,
     "size": 0
   }, {
     "id": 42,
     "name": "Mörsch Rheinaustraße",
-    "position": 0.9666066666666666,
+    "position": 0.9650269145126332,
     "priority": 1,
     "size": 0
   }, {
     "id": 43,
     "name": "Mörsch Bach West",
-    "position": 0.9737999999999999,
+    "position": 0.9739885797808517,
     "priority": 1,
     "size": 0
   }, {
     "id": 44,
     "name": "Mörsch Am Hang",
-    "position": 0.9846399999999997,
+    "position": 0.9831433586809508,
     "priority": 1
   }, {
     "id": 45,
     "name": "Mörsch Merkurstraße",
-    "position": 0.9918999999999999,
+    "position": 0.992170612626332,
     "priority": 1
   }]
 }
