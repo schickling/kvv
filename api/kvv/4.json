@@ -1,1 +1,141 @@
-{ "parameters": [ { "name":"line", "value":"kvv:21004:L:H:j14:4:4::0:1" }, { "name":"requestID", "value":"0" }, { "name":"sessionID", "value":"0" } ], "geoObjects": { "params": { "modes": [ { "mode": { "name":"Straßenbahn 4 (VBK)", "number":"4 (VBK)", "product":"Straßenbahn", "type":"4", "code":"4", "destination":"Karlsruhe Tivoli", "destID":"7000084", "desc":"Waldstadt - Hauptfriedhof - Durlacher Tor - Europaplatz - Hbf Vorplatz - Tivoli", "timetablePeriod":"15.12.2013", "realtime":"0", "diva": { "branch":"21", "line":"21004", "supplement":"L", "dir":"H", "project":"j14", "network":"kvv", "stateless":"kvv:21004:L:H:j14", "operator":"VBK GmbH", "opCode":"02" } } }, { "mode": { "name":"Straßenbahn 4 (VBK)", "number":"4 (VBK)", "product":"Straßenbahn", "type":"4", "code":"4", "destination":"Waldstadt Europäische Schule", "destID":"7003012", "desc":"", "timetablePeriod":"15.12.2013", "realtime":"0", "diva": { "branch":"21", "line":"21004", "supplement":"L", "dir":"R", "project":"j14", "network":"kvv", "stateless":"kvv:21004:L:R:j14", "operator":"VBK GmbH", "opCode":"02" } } } ] }, "items": [ { "item": { "mode": { "name":"", "number":"", "product":"", "type":"4", "code":"4", "destination":"", "destID":"-1", "desc":"", "timetablePeriod":"", "diva": { "branch":"21", "line":"21004", "supplement":"L", "dir":"H", "project":"j14", "network":"kvv", "stateless":"kvv:21004:L:H:j14", "operator":"", "opCode":"" } }, "paths": [ { "path":"3459617.00000,725572.00000 3459625.00000,725636.00000 3459583.00000,725786.00000 3459586.00000,725815.00000 3459655.00000,725853.00000 3459932.00000,725974.00000 3459965.00000,726008.00000 3459972.00000,726049.00000 3459679.00000,726366.00000 3459677.00000,726393.00000 3459709.00000,726428.00000 3459710.00000,726455.00000 3459633.00000,726563.00000 3459678.00000,726498.00000 3459690.00000,726491.00000 3459723.00000,726497.00000 3459733.00000,726521.00000 3459724.00000,726533.00000 3459662.00000,726547.00000 3459647.00000,726562.00000 3459499.00000,726775.00000 3459647.00000,726562.00000 3459662.00000,726547.00000 3459724.00000,726533.00000 3459733.00000,726521.00000 3459723.00000,726497.00000 3459690.00000,726491.00000 3459678.00000,726498.00000 3459251.00000,727126.00000 3459244.00000,727161.00000 3459250.00000,727195.00000 3459265.00000,727216.00000 3459291.00000,727232.00000 3459622.00000,727321.00000 3459705.00000,727387.00000 3459755.00000,727443.00000 3459760.00000,727489.00000 3459655.00000,728074.00000 3459640.00000,728113.00000 3459578.00000,728213.00000 3459395.00000,728434.00000 3459352.00000,728476.00000 3459002.00000,728763.00000 3458743.00000,728947.00000 3458521.00000,729063.00000 3458271.00000,729162.00000 3457579.00000,729564.00000 3457427.00000,729638.00000 3457402.00000,729639.00000" }, { "path":"3457221.00000,729624.00000 3456516.00000,729570.00000" }, { "path":"3456504.00000,729572.00000 3455836.00000,729520.00000 3455812.00000,729532.00000 3455762.00000,730385.00000 3455738.00000,730556.00000 3455689.00000,731223.00000 3455709.00000,731236.00000 3456063.00000,731279.00000 3456135.00000,731275.00000 3456218.00000,731242.00000 3456282.00000,731234.00000 3456482.00000,731161.00000 3456500.00000,731115.00000 3456517.00000,731109.00000 3456690.00000,731110.00000 3456893.00000,731087.00000 3456974.00000,731069.00000 3456986.00000,731059.00000 3456991.00000,731040.00000 3456986.00000,731027.00000 3456964.00000,731014.00000" } ], "points": [ { "name":"Waldstadt Europäische Schule", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7003012", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"48" } ], "coords":"3459617.00000,725572.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Osteroder Straße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000411", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459665.00000,725858.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Elbinger Str. (Ost)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7003017", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459933.00000,726096.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Jägerhaus", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000409", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459634.00000,726564.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Zentrum", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000408", "area":"1", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"48" } ], "coords":"3459516.00000,726787.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Glogauer Straße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000407", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"112" } ], "coords":"3459247.00000,727137.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Im Eichbäumle", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000406", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459705.00000,727388.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Hagsfeld Fächerbad", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000405", "area":"1", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"1136" } ], "coords":"3459695.00000,727856.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Rintheim Sinsheimer Straße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000404", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3459444.00000,728373.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Hirtenweg/Techn.park", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000403", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3459025.00000,728742.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Hauptfriedhof", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000402", "area":"1", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"114" } ], "coords":"3458314.00000,729145.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Karl-Wilhelm-Platz", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000401", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3457869.00000,729396.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Durlacher Tor / KIT", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000003", "area":"2", "platform":"5", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3457221.00000,729624.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Kolpingplatz", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000063", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455708.00000,730932.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Ebertstraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000091", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455853.00000,731254.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe, Hbf Vorplatz", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000089", "area":"1", "platform":"B", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"1074" } ], "coords":"3456179.00000,731259.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Poststraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000098", "area":"1", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3456462.00000,731167.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Tivoli", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000084", "area":"0", "platform":"3", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3456965.00000,731014.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Kronenpl.(Kaiserstr)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000002", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3456819.00000,729591.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Marktpl.(Kaiserstr)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000001", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"1074" } ], "coords":"3456516.00000,729570.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Herrenstraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000099", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3456176.00000,729547.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Europaplatz (Kaiser)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000031", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455908.00000,729525.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Europaplatz (Karl)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000060", "area":"1", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455806.00000,729588.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Karlstor", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000061", "area":"0", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3455778.00000,730077.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Mathystraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000062", "area":"1", "platform":"1", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3455755.00000,730441.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } } ] } }, { "item": { "mode": { "name":"", "number":"", "product":"", "type":"4", "code":"4", "destination":"", "destID":"-1", "desc":"", "timetablePeriod":"", "diva": { "branch":"21", "line":"21004", "supplement":"L", "dir":"R", "project":"j14", "network":"kvv", "stateless":"kvv:21004:L:R:j14", "operator":"", "opCode":"" } }, "paths": [ { "path":"3456964.00000,731014.00000 3456930.00000,731018.00000 3456892.00000,731079.00000 3456688.00000,731104.00000 3456516.00000,731101.00000 3456495.00000,731109.00000 3456482.00000,731152.00000 3456473.00000,731157.00000 3456341.00000,731204.00000 3456245.00000,731220.00000 3456118.00000,731270.00000 3456075.00000,731272.00000 3455718.00000,731231.00000 3455694.00000,731220.00000 3455743.00000,730556.00000 3455767.00000,730386.00000 3455819.00000,729535.00000 3455836.00000,729526.00000 3456576.00000,729586.00000" }, { "path":"3456869.00000,729611.00000 3457239.00000,729634.00000" }, { "path":"3457402.00000,729645.00000 3457437.00000,729640.00000 3457580.00000,729570.00000 3458280.00000,729164.00000 3458524.00000,729067.00000 3458746.00000,728953.00000 3459006.00000,728769.00000 3459105.00000,728681.00000 3459328.00000,728508.00000 3459396.00000,728443.00000 3459585.00000,728219.00000 3459648.00000,728118.00000 3459662.00000,728077.00000 3459767.00000,727490.00000 3459769.00000,727461.00000 3459761.00000,727438.00000 3459721.00000,727392.00000 3459626.00000,727315.00000 3459293.00000,727226.00000 3459268.00000,727210.00000 3459251.00000,727162.00000 3459255.00000,727135.00000 3459285.00000,727088.00000 3459716.00000,726459.00000 3459716.00000,726425.00000 3459682.00000,726388.00000 3459687.00000,726366.00000 3459963.00000,726076.00000 3459979.00000,726050.00000 3459972.00000,726005.00000 3459936.00000,725968.00000 3459593.00000,725812.00000 3459592.00000,725780.00000 3459636.00000,725626.00000 3459672.00000,725591.00000 3459671.00000,725568.00000 3459654.00000,725552.00000" } ], "points": [ { "name":"Karlsruhe Mathystraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000062", "area":"1", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3455766.00000,730396.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Karlstor", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000061", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3455785.00000,730064.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Europaplatz (Karl)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000060", "area":"1", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455815.00000,729552.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Europaplatz (Kaiser)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000031", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455949.00000,729535.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Herrenstraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000099", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3456219.00000,729557.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Kolpingplatz", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000063", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455720.00000,730903.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Ebertstraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000091", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3455812.00000,731242.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe, Hbf Vorplatz", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000089", "area":"1", "platform":"C", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"1074" } ], "coords":"3456172.00000,731249.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Poststraße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000098", "area":"1", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3456419.00000,731174.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Tivoli", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000084", "area":"0", "platform":"3", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3456965.00000,731014.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Marktpl.(Kaiserstr)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000001", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"1074" } ], "coords":"3456551.00000,729586.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Kronenpl.(Kaiserstr)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000002", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3456869.00000,729611.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Durlacher Tor / KIT", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000003", "area":"2", "platform":"6", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3457239.00000,729634.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Karl-Wilhelm-Platz", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000401", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3457897.00000,729387.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Hauptfriedhof", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000402", "area":"1", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"114" } ], "coords":"3458392.00000,729119.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Karlsruhe Hirtenweg/Techn.park", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000403", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"50" } ], "coords":"3459087.00000,728697.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Rintheim Sinsheimer Straße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000404", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"18" } ], "coords":"3459470.00000,728356.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Hagsfeld Fächerbad", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000405", "area":"1", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"1136" } ], "coords":"3459712.00000,727810.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Im Eichbäumle", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000406", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459721.00000,727393.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Glogauer Straße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000407", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"112" } ], "coords":"3459286.00000,727089.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Zentrum", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000408", "area":"1", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"48" } ], "coords":"3459512.00000,726793.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Jägerhaus", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000409", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459688.00000,726502.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Elbinger Str. (Ost)", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7003017", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459951.00000,726090.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Osteroder Straße", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7000411", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"16" } ], "coords":"3459656.00000,725838.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } }, { "name":"Waldstadt Europäische Schule", "nameWO":"", "place":"", "nameWithPlace":"", "omc":"-1", "placeID":"-1", "platformName":"", "desc":"", "ref": { "id":"7003012", "area":"0", "platform":"2", "NaPTANID":"", "attrs": [ { "name":"STOP_MEANS", "value":"48" } ], "coords":"3459654.00000,725553.00000", "arrDelay":"0", "arrValid":"0", "depDelay":"0", "depValid":"0" } } ] } } ] } }
+{
+  "name": "4",
+  "stops": [{
+    "id": 0,
+    "name": "Waldstadt Europäische Schule",
+    "position": 0,
+    "priority": 1
+  }, {
+    "id": 1,
+    "name": "Waldstadt Osteroder Straße",
+    "position": 0.05589999999999999,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 2,
+    "name": "Waldstadt Elbinger Str. (Ost)",
+    "position": 0.10502000000000013,
+    "priority": 1
+  }, {
+    "id": 3,
+    "name": "Waldstadt Jägerhaus",
+    "position": 0.15336666666666648,
+    "priority": 1
+  }, {
+    "id": 4,
+    "name": "Waldstadt Zentrum",
+    "position": 0.21589999999999954,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 5,
+    "name": "Waldstadt Glogauer Straße",
+    "position": 0.24751999999999955,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 6,
+    "name": "Waldstadt Im Eichbäumle",
+    "position": 0.2950199999999995,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 7,
+    "name": "Hagsfeld Fächerbad",
+    "position": 0.32760666666666616,
+    "priority": 1
+  }, {
+    "id": 8,
+    "name": "Rintheim Sinsheimer Straße",
+    "position": 0.39101999999999937,
+    "priority": 0
+  }, {
+    "id": 9,
+    "name": "Karlsruhe Hirtenweg/Techn.park",
+    "position": 0.44773999999999925,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 10,
+    "name": "Karlsruhe Hauptfriedhof",
+    "position": 0.5005199999999992,
+    "priority": 0
+  }, {
+    "id": 11,
+    "name": "Karlsruhe Karl-Wilhelm-Platz",
+    "position": 0.5667,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 12,
+    "name": "Karlsruhe Durlacher Tor / KIT",
+    "position": 0.6426,
+    "priority": 0,
+    "size": 0
+  }, {
+    "id": 13,
+    "name": "Karlsruhe Kolpingplatz",
+    "position": 0.7068666666666653,
+    "priority": 1
+  }, {
+    "id": 14,
+    "name": "Karlsruhe Ebertstraße",
+    "position": 0.7347666666666651,
+    "priority": 1
+  }, {
+    "id": 15,
+    "name": "Karlsruhe, Hbf Vorplatz",
+    "position": 0.7856999999999983,
+    "priority": 1
+  }, {
+    "id": 16,
+    "name": "Karlsruhe Poststraße",
+    "position": 0.8150999999999983,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 17,
+    "name": "Karlsruhe Tivoli",
+    "position": 0.8517666666666648,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 18,
+    "name": "Karlsruhe Kronenpl.(Kaiserstr)",
+    "position": 0.8721066666666649,
+    "priority": 1
+  }, {
+    "id": 19,
+    "name": "Karlsruhe Marktpl.(Kaiserstr)",
+    "position": 0.8926866666666649,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 20,
+    "name": "Karlsruhe Herrenstraße",
+    "position": 0.9135066666666647,
+    "priority": 1
+  }, {
+    "id": 21,
+    "name": "Karlsruhe Europaplatz (Kaiser)",
+    "position": 0.9345666666666649,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 22,
+    "name": "Karlsruhe Europaplatz (Karl)",
+    "position": 0.955866666666665,
+    "priority": 1
+  }, {
+    "id": 23,
+    "name": "Karlsruhe Karlstor",
+    "position": 0.9774066666666649,
+    "priority": 1,
+    "size": 0
+  }, {
+    "id": 24,
+    "name": "Karlsruhe Mathystraße",
+    "position": 0.999186666666665,
+    "priority": 1
+  }]
+}
