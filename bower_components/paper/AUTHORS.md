@@ -1,6 +1,6 @@
 ## Authors
 
-- Juerg Lehni <juerg@scratchdisk.com>
+- Juerg Lehni <juerg@lehni.org>
 - Jonathan Puckey <jonathan@studiomoniker.com>
 
 ## Contributors

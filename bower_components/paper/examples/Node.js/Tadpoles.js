@@ -1,7 +1,7 @@
-var paper = require('paper');
-var scope = require('./Tadpoles.pjs')(new paper.Size(1024, 768));
+require('paper');
+var paper = require('./Tadpoles.pjs');
 
-scope.view.exportFrames({
+paper.view.exportFrames({
 	amount: 400,
 	directory: __dirname,
 	onComplete: function() {

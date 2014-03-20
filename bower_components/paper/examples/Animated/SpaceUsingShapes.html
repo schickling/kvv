@@ -17,11 +17,10 @@
 	for (var i = 0; i < count; i++) {
 		// The center position is a random point in the view:
 		var center = Point.random() * view.size;
-		var scale = (i + 1) / count;
-		var path = new Shape.Circle(center, 5 * scale);
+		var path = new Shape.Circle(center, 5 * (i / count));
 		path.data.vector = new Point({
 			angle: Math.random() * 360,
-			length : scale * Math.random() / 5
+			length : (i / count) * Math.random() / 5
 		});
 	}
 

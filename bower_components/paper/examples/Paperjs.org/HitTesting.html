@@ -89,11 +89,12 @@
 
 		function onMouseDrag(event) {
 			if (segment) {
-				segment.point += event.delta;
+				segment.point = event.point;
 				path.smooth();
-			} else if (path) {
-				path.position += event.delta;
 			}
+
+			if (movePath)
+				path.position += event.delta;
 		}
 	</script>
 </head>

@@ -123,7 +123,7 @@
 				var image = document.createElement('img');
 				image.onload = function () {
 					handleImage(image);
-					view.update();
+					view.draw();
 				};
 				image.src = event.target.result;
 			};

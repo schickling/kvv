@@ -19,7 +19,7 @@ http.createServer(function(request, response) {
 		var intersection = first.subtract(second);
 		intersection.style = style;
 		intersection.translate(250, 0);
-		view.update();
+		view.draw();
 	}
 	var stream = canvas.createPNGStream();
 	stream.on('data', function(chunk) {
